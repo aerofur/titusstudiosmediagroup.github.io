@@ -45,3 +45,6 @@
 ## [Twitter](https://twitter.com/StudiosTitus)
 
 ![slide3](https://i.imgur.com/uTMqKss.jpg)
+
+
+Copyright © 2019 Titus Studios Media. All rights reserved.
