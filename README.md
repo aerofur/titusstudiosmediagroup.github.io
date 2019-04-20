@@ -29,13 +29,6 @@
 ### Q: HeY TItuS Cazn I CaLL yoU TiT-uS??????/?!?
 ### A: Sure if you want, just don't over use it.
  
-# The "Golden" Question(s) (Please Stop Asking me this.)
-### Q: Whats your sexuality?
-### A: Idk, Don't really have one - Don't care about love.
-
-### The most commonly asked question is next, Enjoy the waste of time.
-### Q: Titus, Are you a Furry?
-### A: No - View my steam profile Bio for more info.
 
 ![slide2](https://i.imgur.com/EfWbayy.jpg)
 
