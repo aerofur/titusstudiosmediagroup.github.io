@@ -14,3 +14,6 @@
 ![html_img](https://i.imgur.com/0fJM7YZ.jpg)
 ![html_img](https://i.imgur.com/hqI2kv5.jpg)
 ![html_img](https://i.imgur.com/WjMkwym.jpg)
+
+
+Copyright © 2019 Titus Studios Media. All rights reserved.
