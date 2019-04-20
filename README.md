@@ -1,6 +1,6 @@
 ![Logo](https://i.imgur.com/qMGwXpQ.png)
 
-## [Home](https://titusstudiosmediagroup.github.io/)   |   [Living In NZ](https://titusstudiosmediagroup.github.io/newzealand)   |   [My Goals](https://titusstudiosmediagroup.github.io/mygoal)
+## [Home](https://titusstudiosmediagroup.github.io/)   |   [Living In NZ](https://titusstudiosmediagroup.github.io/newzealand)   |   [My Goals](https://titusstudiosmediagroup.github.io/mygoal)   |   [Gallery](https://titusstudiosmediagroup.github.io/gallery)
 
 # Who am I?
 ### Hi, I'm Titus, Well that's what my online friends like to call me. I'm a avid programmer and I specialize in the language Expression 2 (E2)  and Lua. I spend most of my life playing Garry's Mod and Driving Locomotives, Usually with some mates of mine. I'm a proud Kiwi and eat way to many pies.
