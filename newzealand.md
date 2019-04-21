@@ -28,7 +28,7 @@ I would like to live there but close to the CBD *(Central Business District)* ar
 If you ever come to New Zealand and your around the Auckland Area, I would go check out the Sky Tower *And if you have some cash handy, it was $30 NZD when I was last there (quite a bit)* But the views from up there are quite amazing, and you can get some pretty nice photos from up there *(700'ish Meters)*. Here are some photos from when I was last at the Sky Tower Below.
 
 ![html_img_5](https://i.imgur.com/ua2btn5.jpg)
-Sky Tower (CBD), Auckland, February 26, 2018. Photo by Titus Studios._
+_Sky Tower (CBD), Auckland, February 26, 2018. Photo by Titus Studios._
 ![html_img_6](https://i.imgur.com/vUvB28S.jpg)
 _Sky Tower (CBD), Auckland, February 26, 2018. Photo by Titus Studios._
 ![html_img_7](https://i.imgur.com/sojcQHD.jpg)
