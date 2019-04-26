@@ -1,5 +1,5 @@
 # Photo Gallery
-### This Photo Gallery has photos that I have taken over the course of my life. Usually rail related but some nature shots from tips I go on. Really wish I take more photos of where I go.
+### This Photo Gallery has photos that I have taken over the course of my life. Usually rail related but some nature shots from trips I go on. Really wish I take more photos of where I go.
 
 ![html_img](https://i.imgur.com/4rsnERw.jpg)
 
