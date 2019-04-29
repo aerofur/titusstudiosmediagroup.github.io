@@ -23,7 +23,7 @@
 ### Q: KiwiRail sucks
 ### A: Not a question but, Whats better then powering traction motors off of Kiwis running on treadmills?
 ### Q: Why does Magnum hate you Titus?
-### A: Put it this way, He does but he doesn't. Lets just say I keep annoying him with server issues and small little bugs with RLC Pt ### 2.0 (Gamma) Ex, The air brake pressures, traction motor scaling, etc. (Idk really hates me - Guess)
+### A: Put it this way, He does but he doesn't. Lets just say I keep annoying him with server issues and small little bugs with RLC Pt 2.0 (Gamma) Ex, The air brake pressures, traction motor scaling, etc. (Idk really hates me - Guess)
 ### Q: Unban me on FC&N
 ### A: No.
 ### Q: HeY TItuS Cazn I CaLL yoU TiT-uS??????/?!?
