@@ -1,5 +1,4 @@
 ![Logo](https://i.imgur.com/qMGwXpQ.png)
-![Lest We Forget 2019](https://i.imgur.com/9ya0FTz.png)
 
 ## [Home](https://titusstudiosmediagroup.github.io/)   |   [Living In NZ](https://titusstudiosmediagroup.github.io/newzealand)   |   [My Goals](https://titusstudiosmediagroup.github.io/mygoal)   |   [Gallery](https://titusstudiosmediagroup.github.io/gallery)
 
