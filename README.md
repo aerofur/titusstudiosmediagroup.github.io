@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/qMGwXpQ.png)
+![Logo](https://i.imgur.com/FuwRhUo.png)
 
 ## [Home](https://titusstudiosmediagroup.github.io/)   |   [Living In NZ](https://titusstudiosmediagroup.github.io/newzealand)   |   [My Goals](https://titusstudiosmediagroup.github.io/mygoal)   |   [Gallery](https://titusstudiosmediagroup.github.io/gallery)
 
