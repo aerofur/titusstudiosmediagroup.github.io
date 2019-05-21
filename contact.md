@@ -11,3 +11,4 @@
 ## [Steam](https://steamcommunity.com/id/TitusStudiosMediaGroup/)
 ## [Twitter](https://twitter.com/StudiosTitus)
 ## Discord: Titus Studios™ Media Group#8833
+## Email: [titusstudiosmediagroup@gmail.com]
