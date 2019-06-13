@@ -37,12 +37,14 @@ This will allow us to expland what content we can produce and have bigger area f
 ![img_adobe_au2018_preview1](https://i.imgur.com/f7ErjcZ.png)
 
 # Current Camera & Audio Equipment
+
 ### Cameras:
 * Canon EOS 800D *(Main Film & Photography DSLR)*
 * Canon EOS 1200D *(Secondary Film DSLR)*
 * Canon EOS 700D
 * Canon EOS 100D
 * Canon EOS 80D *(Out of service due to damage)*
+
 ### Microphones:
 * Rode VideoMic Pro
 * Rode VideoMic
@@ -51,6 +53,7 @@ This will allow us to expland what content we can produce and have bigger area f
 * Reloop S-Pod
 
 # Current Post-Production Equipment
+
 ### Software:
 * Adobe Premiere Pro 
 * Adobe After Effects
@@ -58,6 +61,7 @@ This will allow us to expland what content we can produce and have bigger area f
 * Adobe Media Encoder
 * Adobe Photoshop
 *(And other Adobe Software)*
+
 ### Audio Mixing:
 * Phonic MR2643XD 18-Channel Helix-Board Powered XLR & Line Mixer
 * Voicemeeter Potato (Full Version)
@@ -75,8 +79,8 @@ I am currently the editor for;
 ## [FireAlarmNZ](https://www.youtube.com/channel/UC9IZqHPuyd89IlbGmYWj1aw)
 <img src="https://i.imgur.com/DOln47z.jpg" width="23%"></img> 
 
-I think you have reached the end of my website, friend.
 
+I think you have reached the end of my website, friend.
 ![slide2](https://i.imgur.com/uTMqKss.jpg)
 
 
