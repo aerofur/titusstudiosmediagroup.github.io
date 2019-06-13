@@ -74,10 +74,10 @@ I currently *(As of June 2019)* Edit for two awesome YouTubers! I love their con
 I am currently the editor for;
 
 ## [Sparky!](https://www.youtube.com/channel/UCuoeboTy1Sdr-IBDPPygsJQ)
-<img src="https://i.imgur.com/KLSzAuE.jpg" width="23%"></img>
+<img src="https://i.imgur.com/KLSzAuE.jpg" width="23%">
 
 ## [FireAlarmNZ](https://www.youtube.com/channel/UC9IZqHPuyd89IlbGmYWj1aw)
-<img src="https://i.imgur.com/DOln47z.jpg" width="23%"></img> 
+<img src="https://i.imgur.com/DOln47z.jpg" width="23%">
 
 
 I think you have reached the end of my website, friend.
