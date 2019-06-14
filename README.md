@@ -79,6 +79,16 @@ I am currently the editor for;
 ## [FireAlarmNZ](https://www.youtube.com/channel/UC9IZqHPuyd89IlbGmYWj1aw)
 <img src="https://i.imgur.com/DOln47z.jpg" width="23%">
 
+I also edit for my own personal YouTube channel. I do random all sorts of content, and post when I find its needed or have something to show. My topics are vast and are forever changing, so stay tuned!
+
+## [TitusStudios](https://www.youtube.com/channel/UC3HWf_aR5xBSLf5c0PhofnA)
+<img src="https://i.imgur.com/SxBHpzF.png" width="23%">
+
+# Music
+I make my own music in "some" of my free time, its very rare but It does happen from time to time. I use FL-Studio to producse my music and publish it on YouTube, via, My YouTube Channel: ### [TitusStudios](https://www.youtube.com/channel/UC3HWf_aR5xBSLf5c0PhofnA)
+
+![AlbumPhoto_1](https://i.imgur.com/S42RJue.png)
+_Beginning Album, By Titus Studios_
 
 ### I think you have reached the end of my website, friend.
 
