@@ -80,7 +80,8 @@ I am currently the editor for;
 <img src="https://i.imgur.com/DOln47z.jpg" width="23%">
 
 
-I think you have reached the end of my website, friend.
+### I think you have reached the end of my website, friend.
+
 ![slide2](https://i.imgur.com/uTMqKss.jpg)
 
 
