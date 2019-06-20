@@ -97,3 +97,7 @@ This message may pop up if you don't have it auto scaled, ignore this and click 
 
 # TO BE FINISHED
 
+## References
+1. [WikiFur](https://en.wikifur.com/wiki/Conbadge), https://en.wikifur.com/wiki/Conbadge - Data on Badges, Types, Etc.
+
+
