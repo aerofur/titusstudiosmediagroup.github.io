@@ -78,7 +78,7 @@ Once you have scaled the design to your liking, It is a good measure to centre i
 
 Now take a step back and evaluate your work so far, check for errors, defects, glitches, etc with your work so far. If you are happy with it so far, we can continue on to printing!
 
-![img10}(https://i.imgur.com/kwYwZde.jpg)
+![img10](https://i.imgur.com/kwYwZde.jpg)
 
 ## Step Nine
 Now that you are happy with your work, and feel it is ready to print, go for it!
