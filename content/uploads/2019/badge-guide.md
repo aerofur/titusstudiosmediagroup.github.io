@@ -29,46 +29,42 @@ To begin making your badge you will need some supplies:
 * Scissors
 * Neck Badge Holder **(Optional)**
 
-## Step One
+
+## Step One: Editing the Artwork
 For making my Badge I will use Adobe Photoshop, as I have a fair bit of experience on it.
 Firstly, I will open a piece of artwork that I think would go well on a badge (Headshots are usually the best)
 
 ![img1](https://i.imgur.com/Ule2bcq.jpg)
 
-## Step Two
 Now that I have my artwork, I will remove all the unnecessary aspects, such as: Background, Text, Etc (Optional)
 This is so that when I print it, I will use less ink, and so it is easier to edit.
 
 ![img2](https://i.imgur.com/C1hL9kx.jpg)
 
-## Step Three
 Make a new document the size of the Paper you are using, In my case A4 (210 × 297 millimeters or 8.27 × 11.69 inches)
 This is because we will be printing it out, duh. And so that we can get a "view for scale", also meaning we don't have to print out heaps of tests to get the size we want.
 
 ![img3](https://i.imgur.com/LgM0kC3.jpg)
 
-## Step Four
+
+## Step Two: Adding Text
 I have copied my fursonas artwork onto the paper document, and added a text layer for adding the characters name (and or, species)
 I will later change it to my fursonas name, for now it will stay as "Lorem ipsum"
 
 ![img4](https://i.imgur.com/1C43krx.jpg)
 
-## Step Five
 I have replaced the text layer with my fursonas name **"Reon"** and have added a cool species designation that I designed while making my Reference Sheet. I have yet to scale it to my liking...
 
 ![img5](https://i.imgur.com/8ZzeRLY.jpg)
 
-## Step Six
 Finding a suitable position for the text can be a tricky task, I suggest you mess around with multiple designs till you find a location you like the best. In my case I envisioned it being below the visor of the Protogen.
 
 ![img6](https://i.imgur.com/Ye0NI8K.jpg)
 
-## Step Seven
 I have done some color rendering on the text, and added a solid to the center of the "O" with some Blending Effects: Outer Glow and a Color Overlay for quick and simple color changing. At this point, you should be able to see your badge coming together!
 
 ![img7](https://i.imgur.com/e4IU8m6.jpg)
 
-## Step Eight
 Time for Scaling and centering!
 I will be selling my badge to a suitable size for printing and for what size I would like it to come out as.
 Once you have scaled the design to your liking, It is a good measure to centre it, but feel free to move it to your own location.
@@ -80,7 +76,8 @@ Now take a step back and evaluate your work so far, check for errors, defects, g
 
 ![img10](https://i.imgur.com/kwYwZde.jpg)
 
-## Step Nine
+
+## Step Three: Printing
 Now that you are happy with your work, and feel it is ready to print, go for it!
 Use 'Ctrl+P' to open the print menu, this is for most programs too.
 
