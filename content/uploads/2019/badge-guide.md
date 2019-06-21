@@ -27,7 +27,7 @@ To begin making your badge you will need some supplies:
 * A Printer
 * Transparent / Clear Adhesive Bookcovering OR a Laminator
 * Scissors
-* Neck Badge Holder **(Optional)**
+* A Lanyard
 
 
 ## Step One: Editing the Artwork
