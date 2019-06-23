@@ -14,12 +14,13 @@ There are two main kinds of badges; Membership or Official Badges, which are iss
 * Customized jewelry charms, either as part of a larger badge or to be worn on other prominent accessories such as a collar
 * Conbadges made for couples that fit together
 
+
 ## Making your own Badge
-Making a Badge in my experience has been fairly straight forward.
+Making a Badge in my experience has been fairly straight forward. I will show you how to make one in 5 Steps!
 
 **First:** You need some art! You can either, commision some art for your badge, create new artwork, or use existing artwork. For whatever one you choose the steps below will still apply.
 
-_add note about using existing artwork HERE_
+___IF YOU ARE USING EXISTING ARTWORK, CONTACT THE ARTIST AND GET PERMISSION TO USE IT IN A BADGE!!!___
 
 To begin making your badge you will need some supplies:
 * A Computer
@@ -27,7 +28,9 @@ To begin making your badge you will need some supplies:
 * A Printer
 * Transparent / Clear Adhesive Bookcovering, ID Card Sleeve, OR a Laminator
 * Scissors
+* Ruler
 * A Lanyard
+
 
 
 ## Step One: Editing the Artwork
@@ -45,6 +48,7 @@ Make a new document the size of the Paper you are using, In my case A4 (210 × 2
 This is because we will be printing it out, duh. And so that we can get a "view for scale", also meaning we don't have to print out heaps of tests to get the size we want.
 
 ![img3](https://i.imgur.com/LgM0kC3.jpg)
+
 
 
 ## Step Two: Adding Text
@@ -77,6 +81,7 @@ Now take a step back and evaluate your work so far, check for errors, defects, g
 ![img10](https://i.imgur.com/kwYwZde.jpg)
 
 
+
 ## Step Three: Printing
 Now that you are happy with your work, and feel it is ready to print, go for it!
 Use 'Ctrl+P' to open the print menu, this is for most programs too.
@@ -93,6 +98,7 @@ Click the 'Print' Button and this menu should pop up, if you haven't already set
 This message may pop up if you don't have it auto scaled, ignore this and click 'Proceed'
 
 ![img12](https://i.imgur.com/vJ6d1t5.jpg)
+
 
 
 ## Step Four A: Cutting it out
@@ -118,11 +124,15 @@ Smooth it onto the card, making sure to have no air trapped under it, this will 
 ![img17](https://i.imgur.com/hWwNXMO.jpg)
 ![img18](https://i.imgur.com/v0c7wSd.jpg)
 
+
+
 ## Step Four B: Cutting it out, again...
 
 Once it has **FULLY** dried / set, it is ready to be cut out! Take your time as you have put so much effort into this already and would be a waste to start again because you mucked up. Use a Ruler, Box Cutter, Exacto Knife to cut straight lines, or just use Scissors with a very steady hand.
 
 ![img19](https://i.imgur.com/kwxJmCA.jpg)
+
+
 
 ## Step Five: Your Done!
 Now just (in my case) insert the design into the Sleeve and BooYah! You just made a Badge!
@@ -134,8 +144,13 @@ Hope you enjoyed this short'ish tutorial on How to make a Fursona Badge! If you 
 ![img20](https://i.imgur.com/ErD5XS3.jpg)
 ![img21](https://i.imgur.com/myDaPqX.jpg)
 
+
+
 ### Referenced Websites 
 1. [WikiFur](https://en.wikifur.com/wiki/Conbadge), https://en.wikifur.com/wiki/Conbadge - Data on Badges, Types, Etc.
+
+
+
 
 
 
