@@ -25,7 +25,7 @@ To begin making your badge you will need some supplies:
 * A Computer
 * Photo Editing Software
 * A Printer
-* Transparent / Clear Adhesive Bookcovering OR a Laminator
+* Transparent / Clear Adhesive Bookcovering, ID Card Sleeve, OR a Laminator
 * Scissors
 * A Lanyard
 
@@ -95,9 +95,48 @@ This message may pop up if you don't have it auto scaled, ignore this and click 
 ![img12](https://i.imgur.com/vJ6d1t5.jpg)
 
 
-# TO BE FINISHED
+## Step Four A: Cutting it out
+I wasn't quite happy with my design, as I realised that the outline would be fairly complex for the tools I had on hand, so I remade most of it and have this as my final design, with resected edits over the course of many test prints.
 
-## References
+You will want to make sure to add an outline to the finalised design, this is so you have a uniform border around the art (if that is what you are going for)
+
+I have changed my design to fit in an ID Card Sleeve, as I had one lying around that could be repurposed, Plus it would be more durable to the elements.
+
+![img13](https://i.imgur.com/kbf30XE.jpg)
+
+Now we can finally cut out our design! Leave an edge around it, as you will "fine" cut it later.
+Glue the paper onto a piece of cardstock or a box, something thin, but strong and not flimisy...
+
+![img14](https://i.imgur.com/RRD3buL.jpg)
+![img15](https://i.imgur.com/s1EIged.jpg)
+
+Make a good coat of glue, as we don't want this falling off. Not too much so that the colors bleed on the other side, just a liberal amount.
+![img16](https://i.imgur.com/BTckfsz.jpg)
+
+Smooth it onto the card, making sure to have no air trapped under it, this will cause lumps. Set it, then forget it, not literally, just let it dry. I suggest you put some weight on top of it to make it set firm and flat, I used some of my lenses to accomplish this:
+
+![img17](https://i.imgur.com/hWwNXMO.jpg)
+![img18](https://i.imgur.com/v0c7wSd.jpg)
+
+## Step Four B: Cutting it out, again...
+
+Once it has **FULLY** dried / set, it is ready to be cut out! Take your time as you have put so much effort into this already and would be a waste to start again because you mucked up. Use a Ruler, Box Cutter, Exacto Knife to cut straight lines, or just use Scissors with a very steady hand.
+
+![img19](https://i.imgur.com/kwxJmCA.jpg)
+
+## Step Five: Your Done!
+Now just (in my case) insert the design into the Sleeve and BooYah! You just made a Badge!
+If you are laminating, just laminate the design. Or if you are covering it with a book cover, just roll it, stick it, cut it, and DONE!
+Add a Lanyard and your badge will be complete for wearable use!
+
+Hope you enjoyed this short'ish tutorial on How to make a Fursona Badge! If you would like to report any issues, report them on the GitHub Issues Page for my website, [Direct GitHub Link](https://github.com/TitusStudiosMediaGroup/titusstudiosmediagroup.github.io)
+
+![img20](https://i.imgur.com/ErD5XS3.jpg)
+![img21](https://i.imgur.com/myDaPqX.jpg)
+
+### Referenced Websites 
 1. [WikiFur](https://en.wikifur.com/wiki/Conbadge), https://en.wikifur.com/wiki/Conbadge - Data on Badges, Types, Etc.
 
 
+
+Copyright © 2019 Titus Studios Media. All rights reserved. Contact Titus Studios Media, for more information or licencing.
