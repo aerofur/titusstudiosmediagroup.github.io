@@ -1,11 +1,3 @@
-html { 
-  background: url(images/background_1.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 ![Banner](https://i.imgur.com/eyYTTXB.jpg)
 ![Logo](https://i.imgur.com/twnTHRC.jpg)
 
