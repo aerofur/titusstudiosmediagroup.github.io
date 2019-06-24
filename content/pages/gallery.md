@@ -1,11 +1,11 @@
 ![Banner](https://i.imgur.com/eyYTTXB.jpg)
 ![Logo](https://i.imgur.com/twnTHRC.jpg)
 
-## [Home](https://titusstudiosmediagroup.github.io/)     |    [About](https://titusstudiosmediagroup.github.io/about)     |    [Projects](https://titusstudiosmediagroup.github.io/projects)     |    [Travel](https://titusstudiosmediagroup.github.io/travel)     |    [In the Community](https://titusstudiosmediagroup.github.io/community)   |  [Gallery](https://titusstudiosmediagroup.github.io/gallery)     |    [Contact](https://titusstudiosmediagroup.github.io/contact)
+## [Home](https://titusstudiosmediagroup.github.io/)      |      [About](https://titusstudiosmediagroup.github.io/content/pages/about)     |    [Projects](https://titusstudiosmediagroup.github.io/content/pages/projects)      |      [Blog & Tutorial Index](https://titusstudiosmediagroup.github.io/blogindex)      |      [Gallery](https://titusstudiosmediagroup.github.io/content/pages/gallery)      |      [Contact](https://titusstudiosmediagroup.github.io/content/pages/contact)
 
 
 # Photo Gallery
-### This Photo Gallery has photos that I have taken over the course of my life. Usually rail related but some nature shots from trips I go on. Really wish I take more photos of where I go.
+This Photo Gallery has photos that I have taken over the course of my life. Usually rail related but some nature shots from trips I go on. Really wish I take more photos of where I go.
 
 ![html_img](https://i.imgur.com/4rsnERw.jpg)
 
