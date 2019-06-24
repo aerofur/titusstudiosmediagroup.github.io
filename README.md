@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/eyYTTXB.jpg)
 ![Logo](https://i.imgur.com/twnTHRC.jpg)
 
-## [Home](https://titusstudiosmediagroup.github.io/)      |      [About](https://titusstudiosmediagroup.github.io/content/pages/about)     |    [Projects](https://titusstudiosmediagroup.github.io/content/pages/projects)      |      [Blog & Tutorial Index](https://titusstudiosmediagroup.github.io/content/pages/blogindex)      |      [Gallery](https://titusstudiosmediagroup.github.io/content/pages/gallery)      |      [Contact](https://titusstudiosmediagroup.github.io/content/pages/contact)
+## [Home](https://titusstudiosmediagroup.github.io/)      |      [About](https://titusstudiosmediagroup.github.io/content/pages/about)     |    [Projects](https://titusstudiosmediagroup.github.io/content/pages/projects)      |      [Blog & Tutorial Index](https://titusstudiosmediagroup.github.io/content/blogindex)      |      [Gallery](https://titusstudiosmediagroup.github.io/content/pages/gallery)      |      [Contact](https://titusstudiosmediagroup.github.io/content/pages/contact)
 
 
 # Hi, I'm Titus!
