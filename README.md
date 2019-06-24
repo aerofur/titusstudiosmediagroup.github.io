@@ -11,7 +11,9 @@
 ![Banner](https://i.imgur.com/eyYTTXB.jpg)
 ![Logo](https://i.imgur.com/twnTHRC.jpg)
 
+<p style="text-align: center;">
 ## [Home](https://titusstudiosmediagroup.github.io/)     |    [About](https://titusstudiosmediagroup.github.io/about)     |    [Projects](https://titusstudiosmediagroup.github.io/projects)     |    [Blog & Tutorial Index](https://titusstudiosmediagroup.github.io/blogindex)   |  [Gallery](https://titusstudiosmediagroup.github.io/gallery)     |    [Contact](https://titusstudiosmediagroup.github.io/contact)
+</p>
 
 
 # Hi, I'm Titus!
