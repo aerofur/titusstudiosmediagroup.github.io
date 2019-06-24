@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
 ![Banner](https://i.imgur.com/eyYTTXB.jpg)
 ![Logo](https://i.imgur.com/twnTHRC.jpg)
