@@ -32,8 +32,6 @@ Furries themselves have a wide variety of ages, races and cultures, and have a d
 
 Just as there is a huge range of people who make up the Furry Community, they way they choose to identify with the fandom is equally varied. Some are simply happy sit with friends and watch Furry cartoons and anime. Some will produce anthropomorphic art of their favourite characters. Others will make and wear fursuits of their of their Furry persona.
 
-It is impossible to give a single definition of the term ‘Furry’. Whatisfurry.com offers a much better explanation than can be offered here.
-
 
 # Furry Fandom
 
