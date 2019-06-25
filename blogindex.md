@@ -6,9 +6,16 @@
 
 # Blogs
 
-[Website Updates](https://titusstudiosmediagroup.github.io/updates)
+[What Is a Furry](https://titusstudiosmediagroup.github.io/content/uploads/2019/what-is-a-furry)
+
 
 
 # Tutorials
 
 [How to make a Fursona Badge (Con Badge)](https://titusstudiosmediagroup.github.io/content/uploads/2019/badge-guide)
+
+
+
+# Misc
+
+[Website Updates](https://titusstudiosmediagroup.github.io/updates)
