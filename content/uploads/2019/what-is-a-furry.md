@@ -30,7 +30,7 @@ There are a vast array of subject areas that Furries are interested in:
 
 Furries themselves have a wide variety of ages, races and cultures, and have a diverse range of backgrounds, from students to highly qualified industry professionals (Doctors, lawyers, academics and even rocket scientists).
 
-Just as there is a huge range of people who make up the Furry Community, they way they choose to identify with the fandom is equally varied. Some are simply happy sit with friends and watch Furry cartoons and anime. Some will produce anthropomorphic art of their favourite characters. Others will make and wear fursuits of their of their Furry persona.
+Just as there is a huge range of people who make up the Furry Community, the way they choose to identify with the fandom is equally varied. Some are simply happy sit with friends and watch Furry cartoons and anime. Some will produce anthropomorphic art of their favourite characters. Others will make and wear fursuits of their of their Furry persona.
 
 
 # Furry Fandom
