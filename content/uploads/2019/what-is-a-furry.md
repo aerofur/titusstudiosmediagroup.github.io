@@ -25,7 +25,7 @@ There are a vast array of subject areas that Furries are interested in:
  * Literature (eg. Poetry and storytelling);
  * Fine arts (eg. Drawing, painting, sculpture and costume making);
  * Performing arts (eg. Singing, music and fursuit performance);
- * Mass Media (eg. Films, cartoons and televison shows);
+ * Mass Media (eg. Films, cartoons and television shows);
  * and the list goes on…
 
 Furries themselves have a wide variety of ages, races and cultures, and have a diverse range of backgrounds, from students to highly qualified industry professionals (Doctors, lawyers, academics and even rocket scientists).
@@ -96,3 +96,4 @@ Increasingly, more elaborate fursuits are being built with some form of talk-jaw
 
 
 Copyright © 2019 Titus Studios Media. Some rights reserved. Contact Titus Studios Media, for more information or licencing.
+
