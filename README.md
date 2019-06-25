@@ -68,7 +68,7 @@ This will allow us to expand what content we can produce and have bigger area fo
 * Voicemeeter Potato (Full Version)
 
 
-![slide1](https://i.imgur.com/Tb5jc5X.jpg)
+![slide1](https://i.imgur.com/wcAUX5c.gifv)
 
 # Who I Edit For
 I currently *(As of June 2019)* Edit for two awesome YouTubers! I love their content and the time and effort they put into their videos.
