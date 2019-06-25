@@ -33,7 +33,7 @@ Titus Studios is planning to buy a new Studio space between Late 2019 ~ 2021, th
 * Photoshoot room
 * Editing Den
 
-This will allow us to expland what content we can produce and have bigger area for larger projects
+This will allow us to expand what content we can produce and have bigger area for larger projects
 
 ![img_adobe_au2018_preview1](https://i.imgur.com/f7ErjcZ.png)
 
