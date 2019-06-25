@@ -74,15 +74,15 @@ This will allow us to expland what content we can produce and have bigger area f
 I currently *(As of June 2019)* Edit for two awesome YouTubers! I love their content and the time and effort they put into their videos.
 I am currently the editor for;
 
-## [Sparky!](https://www.youtube.com/channel/UCuoeboTy1Sdr-IBDPPygsJQ)
+### [Sparky!](https://www.youtube.com/channel/UCuoeboTy1Sdr-IBDPPygsJQ)
 <img src="https://i.imgur.com/KLSzAuE.jpg" width="23%">
 
-## [FireAlarmNZ](https://www.youtube.com/channel/UC9IZqHPuyd89IlbGmYWj1aw)
+### [FireAlarmNZ](https://www.youtube.com/channel/UC9IZqHPuyd89IlbGmYWj1aw)
 <img src="https://i.imgur.com/DOln47z.jpg" width="23%">
 
 I also edit for my own personal YouTube channel. I do random all sorts of content, and post when I find its needed or have something to show. My topics are vast and are forever changing, so stay tuned!
 
-## [TitusStudios](https://www.youtube.com/channel/UC3HWf_aR5xBSLf5c0PhofnA)
+### [TitusStudios](https://www.youtube.com/channel/UC3HWf_aR5xBSLf5c0PhofnA)
 <img src="https://i.imgur.com/SxBHpzF.png" width="23%">
 
 # Music
