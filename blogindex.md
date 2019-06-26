@@ -7,6 +7,7 @@
 # Blogs
 
 [What Is a Furry](https://titusstudiosmediagroup.github.io/content/uploads/2019/what-is-a-furry)
+[How to get involved in the Furry Fandom](https://titusstudiosmediagroup.github.io/content/uploads/2019/how-to-get-involved-furry-fandom)
 
 
 
@@ -19,3 +20,6 @@
 # Misc
 
 [Website Updates](https://titusstudiosmediagroup.github.io/updates)
+
+
+Copyright © 2019 Titus Studios Media. Some rights reserved. Contact Titus Studios Media, for more information or licencing.
