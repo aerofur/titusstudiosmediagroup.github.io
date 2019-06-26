@@ -29,6 +29,7 @@ With over 6 months of preparation for this fundraising campaign, and over 20 fur
  
  
 ![img2](https://i.imgur.com/7nTPnCr.jpg)
+_Telephone [(Ino89777)](https://twitter.com/TheInodog) playing with a baby horses_
 
  
  Here are all the furries you will see for each calendar page:
@@ -39,7 +40,7 @@ With over 6 months of preparation for this fundraising campaign, and over 20 fur
 |:-------------|:------------------|
 | Cover        | Paco Panda |
 | July         | Telephone |
-| August       | Vixndwnq |
+| August       | VixNdwnq |
 | Sept         | Majira Strawberry |
 | October      | Biogodz |
 | November     | Beagle.In.Red |
@@ -70,6 +71,7 @@ With over 6 months of preparation for this fundraising campaign, and over 20 fur
 
 
 ![img3](https://i.imgur.com/RN1Fk6d.jpg)
+_Group photo, [Kiwi Fox](https://twitter.com/Kiwi_Foxx), [Majira Strawberry](https://twitter.com/tallfuzzball), [Telephone](https://twitter.com/TheInodog), [VixNdwnq & Rika](https://twitter.com/VixNdwnq), [Pineapple Fox](https://twitter.com/ThePineappleFox)_
 
 
 # The Reward
@@ -88,6 +90,7 @@ Artworktee are donating all the fundraised money to the Last Chance Corral, minu
 
 
 ![img4](https://i.imgur.com/k2Izr0j.jpg)
+_Telephone [(Ino89777)](https://twitter.com/TheInodog) being cute..._
 
 
 # Thank You!
@@ -95,6 +98,7 @@ Artworktee are donating all the fundraised money to the Last Chance Corral, minu
 Thanks to all of your generous donations, we have raised over 60,000 USD for the **#FursuitFriday Charity Calendar.** All of this donated money will go towards the [Last Chance Corral](https://lastchancecorral.org) and will help them save abandoned and abused horses. We couldn't have made it this far without your support. Titus Studios Media & Artworktee greatly appreciate your donations and support towards us.
 
 ![img5](https://i.imgur.com/GMmp3rw.jpg)
+_Group photo No.2, [Kiwi Fox](https://twitter.com/Kiwi_Foxx), [Majira Strawberry](https://twitter.com/tallfuzzball), [Telephone](https://twitter.com/TheInodog), [VixNdwnq & Rika](https://twitter.com/VixNdwnq), [Pineapple Fox](https://twitter.com/ThePineappleFox)_
 
 
 ### More Information & Further Reading
@@ -107,6 +111,8 @@ Thanks to all of your generous donations, we have raised over 60,000 USD for the
 
 
 ![img6](https://i.imgur.com/mPUeq7R.jpg)
+_Everyone playing with the baby horses!, [Kiwi Fox](https://twitter.com/Kiwi_Foxx), [Majira Strawberry](https://twitter.com/tallfuzzball), [Telephone](https://twitter.com/TheInodog), [VixNdwnq & Rika](https://twitter.com/VixNdwnq), [Pineapple Fox](https://twitter.com/ThePineappleFox)_
+
 
 
 Thank you to [Artworktee](https://artworktee.com/) for providing the images used on the page.
