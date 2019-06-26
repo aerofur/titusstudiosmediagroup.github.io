@@ -25,7 +25,7 @@ We continue to keep our high standards and produce high quality content for the 
 ![img_adobe_pr2019_preview1](https://i.imgur.com/TNgSoxR.png)
 
 # Looking Ahead
-Titus Studios is planning to buy a new Studio space between Late 2019 ~ 2021, the new Studio will have more room for:
+Titus Studios is planning to buy a new Studio space between Late 2020 ~ 2021, the new Studio will have more room for:
 * Large Keying Screen (Greenscreen)
 * Space for larger camera equipment
 * Better lighting
