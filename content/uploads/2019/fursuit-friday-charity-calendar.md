@@ -49,7 +49,7 @@ April | Aiko Wolf
 May | Wolfpuptk
 June | Rainy Coyote
 July | Stormi Folf
-August | Betaetadelota
+August | BetaEtaDelota
 August | Artemis Wishfoot
 Sept | Ace Of Hearts Fox
 October | Strobes
