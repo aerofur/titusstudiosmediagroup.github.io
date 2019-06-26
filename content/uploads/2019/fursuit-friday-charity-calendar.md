@@ -13,6 +13,8 @@ One of the largest foal rescue facilities in the US, Last Chance Corral (LCC) ha
 
 You can learn more about the charity by visiting their website: http://lastchancecorral.org
 
+![img1](https://i.imgur.com/Z3skDSV.jpg?1)
+
 # The Fursuiters
 
 With over 6 months of preparation for this fundraising campaign, and over 20 fursuiters participating, the #FursuitFriday Charity Calendar is one of the biggest furry collaborations ever.
@@ -23,6 +25,8 @@ With over 6 months of preparation for this fundraising campaign, and over 20 fur
  * 18 month calendar (July 2019 to December 2020)
  * 40 pages of beautiful photography
  * 12 x 12 in size (30 x 30 cm)
+ 
+![img2](https://i.imgur.com/7nTPnCr.jpg)
  
  Here are all the furries you will see for each calendar page:
 
@@ -60,6 +64,8 @@ December | Pineapple Fox
 Special Thanks | Ash Coyote
 ---
 
+![img3](https://i.imgur.com/RN1Fk6d.jpg)
+
 # The Reward
 
 Artworktee has put in place some rewards to encourage you to give generously to this great cause;
@@ -74,19 +80,25 @@ The initial goal was to raise $30,000 USD for Last Chance Corral. This enables t
 
 Artworktee are donating all the fundraised money to the Last Chance Corral, minus the costs for production, card processing, etc. They are trying to keep the production cost as low as possible to allow the largest amount of money to be donated.
 
+![img4](https://i.imgur.com/k2Izr0j.jpg)
 
 # Thank You!
 
 Thanks to all of your generous donations we have raised over 60,000 USD for the **#FursuitFriday Charity Calendar.** All of this donated money will go towards the [Last Chance Corral](http://lastchancecorral.org) and will help them save abandoned and abused horses. We couldn't have made it this far without your support. Titus Studios Media & Artworktee greatly appreciate your donations and support towards us.
 
+![img5](https://i.imgur.com/GMmp3rw.jpg)
+
 ### More Information & Further Reading
 Indiegogo Page: https://www.indiegogo.com/projects/fursuitfriday-charity-calendar/#/
 Artworktee: https://artworktee.com/
 
-
 ### Referenced Websites 
 1. Artworktee
+2. Indiegogo
+
+![img6](https://i.imgur.com/mPUeq7R.jpg)
 
 
 Thank you to [Artworktee](https://artworktee.com/) for providing the images used on the page.
+
 Copyright © 2019 Titus Studios Media. Some rights reserved. Contact Titus Studios Media, for more information or licencing.
