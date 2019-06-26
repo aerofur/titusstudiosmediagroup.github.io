@@ -92,7 +92,7 @@ Artworktee are donating all the fundraised money to the Last Chance Corral, minu
 
 # Thank You!
 
-Thanks to all of your generous donations we have raised over 60,000 USD for the **#FursuitFriday Charity Calendar.** All of this donated money will go towards the [Last Chance Corral](https://lastchancecorral.org) and will help them save abandoned and abused horses. We couldn't have made it this far without your support. Titus Studios Media & Artworktee greatly appreciate your donations and support towards us.
+Thanks to all of your generous donations, we have raised over 60,000 USD for the **#FursuitFriday Charity Calendar.** All of this donated money will go towards the [Last Chance Corral](https://lastchancecorral.org) and will help them save abandoned and abused horses. We couldn't have made it this far without your support. Titus Studios Media & Artworktee greatly appreciate your donations and support towards us.
 
 ![img5](https://i.imgur.com/GMmp3rw.jpg)
 
