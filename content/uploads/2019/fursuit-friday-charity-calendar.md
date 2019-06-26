@@ -11,9 +11,10 @@ The #FursuitFriday Charity Calendar is a Fursuit based charity calendar which is
 
 One of the largest foal rescue facilities in the US, Last Chance Corral (LCC) has been rescuing mistreated, unwanted, and misunderstood horses and foals for over 30 years. Their work is absolutely critical for the 150+ foals that come into their care every year. As Victoria, the founder of LCC, [puts it herself,](https://mashable.com/2015/06/14/last-chance-corral/) “We wanted to put our efforts into something that people don’t want to work with, which is newborns. We needed to at least give them a chance.” 
 
-You can learn more about the charity by visiting their website: http://lastchancecorral.org
+You can learn more about the charity by visiting their website: https://lastchancecorral.org/
 
 ![img1](https://i.imgur.com/Z3skDSV.jpg?1)
+
 
 # The Fursuiters
 
@@ -26,45 +27,50 @@ With over 6 months of preparation for this fundraising campaign, and over 20 fur
  * 40 pages of beautiful photography
  * 12 x 12 in size (30 x 30 cm)
  
+ 
 ![img2](https://i.imgur.com/7nTPnCr.jpg)
+
  
  Here are all the furries you will see for each calendar page:
 
 ### 2019
-Page | Name
--|-
-Cover | Paco Panda
-July | Telephone
-August | Vixndwnq
-Sept | Majira Strawberry
-October | Biogodz
-November | Beagle.In.Red
-December | Rinn
----
+
+| Page        | Name         |
+|:-------------|:------------------|
+| Cover           | Paco Panda |
+| July           | Telephone |
+| August           | Vixndwnq |
+| Sept           | Majira Strawberry |
+| October           | Biogodz |
+| November           | Beagle.In.Red |
+| December           | Rinn |
+
 
 ### 2020
-Page | Name
--|-
-January | Pocari Roo
-February | Faux Veritas
-March | Zabu Taichou
-April | Skye Cabbit
-April | Aiko Wolf
-May | Wolfpuptk
-June | Rainy Coyote
-July | Stormi Folf
-August | BetaEtaDelota
-August | Artemis Wishfoot
-Sept | Ace Of Hearts Fox
-October | Strobes
-November | Fox Amoore 
-November | Pepper Coyote
-December | Kiwi Fox
-December | Pineapple Fox
-Special Thanks | Ash Coyote
----
+
+| Page        | Name         |
+|:-------------|:------------------|
+| January           | Pocari Roo |
+| February           | Faux Veritas |
+| March           | Zabu Taichou |
+| April           | Skye Cabbit |
+| April           | Aiko Wolf |
+| May           | Wolfpuptk |
+| June           | Rainy Coyote |
+| July           | Stormi Folf |
+| August           | BetaEtaDelota |
+| August           | Artemis Wishfoot |
+| Sept           | Ace Of Hearts Fox |
+| October           | Strobes |
+| November           | Fox Amoore |
+| November           | Pepper Coyote |
+| December           | Kiwi Fox |
+| December           | Pineapple Fox |
+| Special Thanks         | Ash Coyote |
+
 
 ![img3](https://i.imgur.com/RN1Fk6d.jpg)
+
 
 # The Reward
 
@@ -80,13 +86,16 @@ The initial goal was to raise $30,000 USD for Last Chance Corral. This enables t
 
 Artworktee are donating all the fundraised money to the Last Chance Corral, minus the costs for production, card processing, etc. They are trying to keep the production cost as low as possible to allow the largest amount of money to be donated.
 
+
 ![img4](https://i.imgur.com/k2Izr0j.jpg)
+
 
 # Thank You!
 
-Thanks to all of your generous donations we have raised over 60,000 USD for the **#FursuitFriday Charity Calendar.** All of this donated money will go towards the [Last Chance Corral](http://lastchancecorral.org) and will help them save abandoned and abused horses. We couldn't have made it this far without your support. Titus Studios Media & Artworktee greatly appreciate your donations and support towards us.
+Thanks to all of your generous donations we have raised over 60,000 USD for the **#FursuitFriday Charity Calendar.** All of this donated money will go towards the [Last Chance Corral](https://lastchancecorral.org) and will help them save abandoned and abused horses. We couldn't have made it this far without your support. Titus Studios Media & Artworktee greatly appreciate your donations and support towards us.
 
 ![img5](https://i.imgur.com/GMmp3rw.jpg)
+
 
 ### More Information & Further Reading
 Indiegogo Page: https://www.indiegogo.com/projects/fursuitfriday-charity-calendar/#/
@@ -95,6 +104,7 @@ Artworktee: https://artworktee.com/
 ### Referenced Websites 
 1. Artworktee
 2. Indiegogo
+
 
 ![img6](https://i.imgur.com/mPUeq7R.jpg)
 
