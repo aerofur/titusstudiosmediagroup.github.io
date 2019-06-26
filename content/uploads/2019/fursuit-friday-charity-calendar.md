@@ -11,7 +11,7 @@ The #FursuitFriday Charity Calendar is a Fursuit based charity calendar which is
 
 One of the largest foal rescue facilities in the US, Last Chance Corral (LCC) has been rescuing mistreated, unwanted, and misunderstood horses and foals for over 30 years. Their work is absolutely critical for the 150+ foals that come into their care every year. As Victoria, the founder of LCC, [puts it herself,](https://mashable.com/2015/06/14/last-chance-corral/) “We wanted to put our efforts into something that people don’t want to work with, which is newborns. We needed to at least give them a chance.” 
 
-You can learn more about the charity by visiting their website: https://lastchancecorral.org/
+You can learn more about the charity by visiting their website: [https://lastchancecorral.org/](https://lastchancecorral.org/)
 
 ![img1](https://i.imgur.com/Z3skDSV.jpg?1)
 
