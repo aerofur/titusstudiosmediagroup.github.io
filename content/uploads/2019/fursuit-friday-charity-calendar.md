@@ -14,6 +14,7 @@ One of the largest foal rescue facilities in the US, Last Chance Corral (LCC) ha
 You can learn more about the charity by visiting their website: [https://lastchancecorral.org/](https://lastchancecorral.org/)
 
 ![img1](https://i.imgur.com/Z3skDSV.jpg?1)
+_**SIGNED** #FursuitFriday Charity Calendar Cover_
 
 
 # The Fursuiters
