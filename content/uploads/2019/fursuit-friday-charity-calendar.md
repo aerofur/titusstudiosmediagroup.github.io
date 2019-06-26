@@ -37,36 +37,36 @@ With over 6 months of preparation for this fundraising campaign, and over 20 fur
 
 | Page        | Name         |
 |:-------------|:------------------|
-| Cover           | Paco Panda |
-| July           | Telephone |
-| August           | Vixndwnq |
-| Sept           | Majira Strawberry |
-| October           | Biogodz |
-| November           | Beagle.In.Red |
-| December           | Rinn |
+| Cover        | Paco Panda |
+| July         | Telephone |
+| August       | Vixndwnq |
+| Sept         | Majira Strawberry |
+| October      | Biogodz |
+| November     | Beagle.In.Red |
+| December     | Rinn |
 
 
 ### 2020
 
 | Page        | Name         |
 |:-------------|:------------------|
-| January           | Pocari Roo |
-| February           | Faux Veritas |
-| March           | Zabu Taichou |
-| April           | Skye Cabbit |
-| April           | Aiko Wolf |
-| May           | Wolfpuptk |
-| June           | Rainy Coyote |
-| July           | Stormi Folf |
-| August           | BetaEtaDelota |
-| August           | Artemis Wishfoot |
-| Sept           | Ace Of Hearts Fox |
-| October           | Strobes |
-| November           | Fox Amoore |
-| November           | Pepper Coyote |
-| December           | Kiwi Fox |
-| December           | Pineapple Fox |
-| Special Thanks         | Ash Coyote |
+| January      | Pocari Roo |
+| February     | Faux Veritas |
+| March        | Zabu Taichou |
+| April        | Skye Cabbit |
+| April        | Aiko Wolf |
+| May          | Wolfpuptk |
+| June         | Rainy Coyote |
+| July         | Stormi Folf |
+| August       | BetaEtaDelota |
+| August       | Artemis Wishfoot |
+| Sept         | Ace Of Hearts Fox |
+| October      | Strobes |
+| November     | Fox Amoore |
+| November     | Pepper Coyote |
+| December     | Kiwi Fox |
+| December     | Pineapple Fox |
+| Special Thanks | Ash Coyote |
 
 
 ![img3](https://i.imgur.com/RN1Fk6d.jpg)
