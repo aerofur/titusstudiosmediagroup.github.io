@@ -59,6 +59,9 @@ Some of these (Charity Calendar) are supporting "One of the largest foal rescue 
 ![img3](https://i.imgur.com/9orB62r.jpg)
 _Artworktee Fursuit Friday 2020 Charity Calendar Shirt, worn by Faux Veritas. Photo by Faux Veritas_
 
+[Faux Films YouTube](https://www.youtube.com/channel/UCBJ7hemB1t8NDy_lVfEDxAw)
+
+
 # Other Articles & Further Information
  * [Ace of Hearts Fox: 10 Tips For Getting Started In the Furry Fandom (YouTube)](https://www.youtube.com/watch?v=MtMZmP5R_uA)
 
