@@ -22,19 +22,19 @@ The Furry Fandom is mostly based online, having online social media is one of th
  
 Twitter is one of the most used social media platforms for furries. Mostly notable for artists, fursuit makers, conventions, etc.
  
-Facebook is one of the more "local based" social media platforms. You can find local furmeets, furry conventions (times and dates), local furries in your area, artists, fursuits, etc... The list goes on. Facebook is usually good for most aspects of the furry fandom and you can definitely meet some great people with it.
+Facebook is one of the more "local based" social media platforms. You can find local furmeets, furry conventions (times and dates), local furries in your area, artists, fursuits, etc... The list goes on. Facebook is usually good for most aspects of the furry fandom and you can definitely meet some great people on it.
 
 ![img1](https://i.imgur.com/WlFbJLo.jpg)
 _South Bank Furmeet, Brisbane, 2019. Photo by Ben Sewell_
 
 # Going to Local Furmeets
 
-One of the best ways by far that I have found to get more involved in this community is go attend local Furmeets / gatherings.
+One of the best ways by far that I have found to get more involved in this community, is to attend local Furmeets / gatherings.
 A furmeet is a relatively small real-life gathering of furries. Furmeets may be periodically scheduled or regular events. A furmeet may range in size, from a small group to dozens. When a furmeet attracts more than approximately 100 attendees, and starts to add features such as organized programming and the sale of goods, it begins to be considered a convention.
 
 At furmeets, attendees will often have dinner, watch movies (both furry and non-furry related), play roleplaying games or video games, or draw. Sometimes a furmeet is as casual as simply getting together to talk and have a few drinks at a local cafe, bar, pub or restaurant. Furmeets can be a fun way to meet other furs and make new friends, get to know local furs, and generally have fun.
 
-**Be sure:** To check the age requirement if you are under 21 years of age, most Furmeets do not have an age requirement, however some do.
+**Be sure:** To check the age requirement if you are under 21 years of age, most Furmeets do have an age requirement.
 
 ![img2](https://i.imgur.com/FHb4tRl.jpg)
 _The Pool Party - Airheads on Airplanes, Evergreen Air & Space Museum 2018. Photo by Daniel Harvey_
