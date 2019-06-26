@@ -104,7 +104,9 @@ _Group photo No.2, [Kiwi Fox](https://twitter.com/Kiwi_Foxx), [Majira Strawberry
 
 ### More Information & Further Reading
 1. Indiegogo Page: https://www.indiegogo.com/projects/fursuitfriday-charity-calendar/#/
-2. Artworktee: https://artworktee.com/
+2. Artworktee: https://artworktee.com
+
+### [Extended Gallery](https://titusstudiosmediagroup.github.io/content/uploads/2019/ffcc-gallery)
 
 ### Referenced Websites 
 1. Artworktee
