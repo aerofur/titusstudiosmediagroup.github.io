@@ -98,8 +98,8 @@ Thanks to all of your generous donations we have raised over 60,000 USD for the 
 
 
 ### More Information & Further Reading
-Indiegogo Page: https://www.indiegogo.com/projects/fursuitfriday-charity-calendar/#/
-Artworktee: https://artworktee.com/
+1. Indiegogo Page: https://www.indiegogo.com/projects/fursuitfriday-charity-calendar/#/
+2. Artworktee: https://artworktee.com/
 
 ### Referenced Websites 
 1. Artworktee
