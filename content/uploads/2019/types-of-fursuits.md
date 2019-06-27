@@ -46,6 +46,12 @@ Pretty much a fullsuit, but only half! This means you can have either, the suit 
 ### Full Plantigrade Suit
 Simply put it, just normal human leg structure. These suits are very easy to come in and out of, as there is no padding in the legs. They are also cheaper than Digigrade legs, due to the fact there is no padding. They are comfy to wear and are relatively easy to transport, fullsuits do take up much more room than partials, but with non-padded suits you can cheat by rolling them up, however this is not recommended as it may cause the fur to crease, leaving crease lines. Fullsuits get **VERY HOT**, you absolutely need to disinfect your fullsuit after every use, as you are going to sweat big time while in one of these suits.
 
+
+![dig-plt-img1](https://i.imgur.com/OL8HitQ.gif)
+
+_Comparison of Digigrade Legs VS Plantigrade Legs. Image from Wikifur_
+
+
 ### Full Digigrade Suit
 In simple terms, the leg structure is more animal like, in more of a zig-zag pattern than straight up and down. These suits can look extremely good, but the downside to having the zig-zag like structure is that it is made with padding. The suit overall will cost a lot more with the Digigrade legs, and the padding can restrict your movement. The padding basically acts as an insulator, keeping heat inside and making it the opposite of a conductor, which will let heat pass into or even through it, in plain terms, it's gonna get hot, Really hot.
 
