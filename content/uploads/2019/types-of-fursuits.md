@@ -26,7 +26,7 @@ The Pros of this are; You have good ventilation, meaning they are much cooler th
 On the other hand, A full Digitigrade suit with padding is practically a walking sauna. The Cons with owning a fullsuit will differ from one suit to the next, but here are some of the most common ones; **HEAT!!** You will get hot in these suits, much more than with a head suit. They are also fairly large and can be quite hard to travel with in some situations; With all that padding (if the suit has padding) and the space that the fullbody suit can take up while traveling.
 
 ![img1](https://i.imgur.com/M3jgnnY.jpg)
-_Example of Padding in a Digitigrade Suit. Photo by _
+_Example of Padding in a Digitigrade Suit. Photo by SparkyCanDo / Sparky_
 
 # Partial Suits
 
