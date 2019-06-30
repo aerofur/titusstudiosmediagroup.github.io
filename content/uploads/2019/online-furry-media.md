@@ -15,9 +15,9 @@ As of June 2019, YouTube is the number one most used and popular video sharing p
 On YouTube, there are 'Furry' based channels with centralised topics going from; Education to Comedy, with many topics in between.
 Also on YouTube, you can get a 'Third-person' perspective on yourself, others or even the fandom.
 
-Some of the topics dissucced around the furry fandom on YouTube are:
- * Educational - Explaining aspects of the Fandom, Ie; Slang, Safety, Do's and Don'ts, The list goes on.
- * Informational - Discussing certain furry events in your local area, whats coming up or has been.
+Some of the topics discussed around the furry fandom on YouTube are:
+ * Educational - Explaining aspects of the Fandom, Ie; Slang, Safety, the Do's and Don'ts, The list goes on.
+ * Informational - Discussing certain furry events in your local area, what's coming up or has been.
  * Comedy
  * Art Tutorials
  * Fursuit Making / Tutorials
@@ -26,13 +26,15 @@ Some of the topics dissucced around the furry fandom on YouTube are:
 
 # Creativity
 
-One of the best parts of YouTube by far, and the lifeblood of this fandom, is the creativity. Seeing the enthusiasm, time, research, and effort people put into a single videos can blow away even myself. As a content creator myself, as a video editor for SparkyBites and my own personal channel it can take an enormous amount of effort to make videos on a regular basis, add on doing research, fact checking, editing, etc. There is so much more you can express in a video compaired to text, the limit to what you can create is the sky.
+One of the best parts of YouTube by far, and the lifeblood of this fandom, is the creativity. Seeing the enthusiasm, time, research, and effort people put into a single videos can blow away even myself. As a content creator myself, as a video editor for SparkyBites and my own personal channel it can take an enormous amount of effort to make videos on a regular basis, add on doing research, fact checking, editing, etc. There is so much more you can express in a video compared to text, the limit to what you can create is the sky.
 
 From people like Majira Strawberry who makes "Vlog" styled content, to people like Pocari Roo and BetaEtaDelota who make educational videos on the furry fandom. You can learn a massive amount from these channels, and I would definitely recommend you check these awesome people if you haven't seen their content.
+
 
 # Recommended Channels
 
 Here are some of my top picks for channels I watch myself, and that I can recommend to anyone wanting to know more, or who are looking for a source of great content. - In a list of general topic of content*
+
 
 ### [Pocari Roo](https://www.youtube.com/channel/UCpic65F1ZwfHCtuCwkbqtdA/)
 _Informational and Educational Content_
@@ -62,8 +64,8 @@ _Vlog Style Content, Comedy, Etc_
 
 
 
-### [Majira Peppermint - Its even worse...](https://www.youtube.com/channel/UCGZ2H9AZnSiHRN5sVUU7CbA)
-_The Deffination of a meme_
+### [Majira Peppermint - It's even worse...](https://www.youtube.com/channel/UCGZ2H9AZnSiHRN5sVUU7CbA)
+_The Definition of a meme_
 
 ![profileimg](https://yt3.ggpht.com/a/AGF-l7915xmwDfoS5l1vp-uLIcTWtwoRZI1waF2RIA=s288-mo-c-c0xffffffff-rj-k-no)
 
