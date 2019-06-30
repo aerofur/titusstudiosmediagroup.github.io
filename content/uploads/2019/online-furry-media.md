@@ -64,7 +64,7 @@ _Vlog Style Content, Comedy, Etc_
 
 
 
-### [Majira Peppermint - It's even worse...](https://www.youtube.com/channel/UCGZ2H9AZnSiHRN5sVUU7CbA)
+### [Majira Peppermint](https://www.youtube.com/channel/UCGZ2H9AZnSiHRN5sVUU7CbA)
 _The Definition of a meme_
 
 ![profileimg](https://yt3.ggpht.com/a/AGF-l7915xmwDfoS5l1vp-uLIcTWtwoRZI1waF2RIA=s288-mo-c-c0xffffffff-rj-k-no)
@@ -102,3 +102,6 @@ _Indepth Informational and Educational Content, Very good channel for new comers
 
 
 Copyright © 2019 Titus Studios Media. Some rights reserved. Contact Titus Studios Media, for more information or licencing.
+
+_Thank you to all the featured YouTubers for providing permission to use their public icon on my Website, Credit to;
+[Pocari Roo](https://www.youtube.com/channel/UCpic65F1ZwfHCtuCwkbqtdA/), [BetaEtaDelota](https://www.youtube.com/channel/UCYud9gPgbjQV7z_nhaojGcg), [Quartz Husky](https://www.youtube.com/channel/UCmad2GY1CmBMCP0JxkOgEXA), [Majira Strawberry](https://www.youtube.com/user/kyleispurrfect), [Majira Peppermint](https://www.youtube.com/channel/UCGZ2H9AZnSiHRN5sVUU7CbA), [TwoFurryBros](https://www.youtube.com/channel/UCiWmp9z9mc1IFj5dnqGpOMA), [Sparky!](https://www.youtube.com/channel/UCuoeboTy1Sdr-IBDPPygsJQ), [Imaginatively Unimaginative](https://www.youtube.com/channel/UCvDMaD61IGdsBAlkG2TsaDw), and [Ace of Hearts Fox](https://www.youtube.com/channel/UCdrogTpVkwZdhRXtqSxv5lQ), you are all highly appreciated by Titus Studios Media for your contribution._
