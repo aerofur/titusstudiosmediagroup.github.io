@@ -30,7 +30,7 @@ With over 6 months of preparation for this fundraising campaign, and over 20 fur
  
  
 ![img2](https://i.imgur.com/7nTPnCr.jpg)
-_Telephone [(Ino89777)](https://twitter.com/TheInodog) playing with a baby horses_
+_Telephone [(Ino89777)](https://twitter.com/TheInodog) playing with a baby horse_
 
  
  Here are all the furries you will see for each calendar page:
