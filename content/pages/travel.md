@@ -40,4 +40,3 @@ _Sky Tower (CBD), Auckland, February 26, 2018. Photo by Titus Studios._
 ![html_img_7](https://i.imgur.com/sojcQHD.jpg)
 _Sky Tower (CBD), Auckland, February 26, 2018. Photo by Titus Studios._
 
-Copyright © 2019 Titus Studios Media. All rights reserved.
