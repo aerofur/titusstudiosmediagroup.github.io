@@ -151,4 +151,3 @@ This Photo Gallery has photos that I have taken over the course of my life. Usua
 
 
 
-Copyright © 2019 Titus Studios Media. All rights reserved.
