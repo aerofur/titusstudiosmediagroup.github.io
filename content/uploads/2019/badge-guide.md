@@ -158,6 +158,3 @@ Hope you enjoyed this short'ish tutorial on How to make a Fursona Badge! If you 
 
 
 
-
-
-Copyright © 2019 Titus Studios Media. All rights reserved. Contact Titus Studios Media, for more information or licencing.
