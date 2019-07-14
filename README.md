@@ -98,5 +98,3 @@ _Beginning Album, By Titus Studios_
 ### I think you have reached the end of my website, friend.
 
 ![logoend](https://i.imgur.com/0TB4b7n.png)
-
-Copyright © 2019 Titus Studios Media. All rights reserved. *Contact Titus Studios Media, for more information or licencing.*
