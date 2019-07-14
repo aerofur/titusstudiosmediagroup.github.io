@@ -25,4 +25,3 @@
  * [Website Updates](https://titusstudiosmediagroup.github.io/updates)
 
 
-Copyright © 2019 Titus Studios Media. Some rights reserved. Contact Titus Studios Media, for more information or licencing.
