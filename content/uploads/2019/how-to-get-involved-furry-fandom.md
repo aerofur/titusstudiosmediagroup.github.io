@@ -71,4 +71,4 @@ _Artworktee Fursuit Friday 2020 Charity Calendar Shirt, worn by Faux Veritas. Ph
 
 
 
-Copyright © 2019 Titus Studios Media. Some rights reserved. Contact Titus Studios Media, for more information or licencing.
+
