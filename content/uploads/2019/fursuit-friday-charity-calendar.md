@@ -120,4 +120,4 @@ _Everyone playing with the baby horses!, [Kiwi Fox](https://twitter.com/Kiwi_Fox
 
 Thank you to [Artworktee](https://artworktee.com/) for providing the images used on the page.
 
-Copyright © 2019 Titus Studios Media. Some rights reserved. Contact Titus Studios Media, for more information or licencing.
+
