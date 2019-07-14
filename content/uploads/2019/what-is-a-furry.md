@@ -95,5 +95,5 @@ Increasingly, more elaborate fursuits are being built with some form of talk-jaw
 
 
 
-Copyright © 2019 Titus Studios Media. Some rights reserved. Contact Titus Studios Media, for more information or licencing.
+
 
