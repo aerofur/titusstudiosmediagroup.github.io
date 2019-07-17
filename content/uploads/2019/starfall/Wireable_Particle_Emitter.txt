@@ -1,0 +1,127 @@
+--@name Wireable Particle Emitter
+--@author
+--@shared
+
+-- V1.00
+
+-- created by Monkatraz
+-- original idea and code reference made by Freezebug
+-- please go credit him with this accomplishment
+
+-- to use:
+-- wire on to something
+-- wire particle string to a string output of a particle
+-- make sure the chip is parented because starfall particle functions are wonderful and it doesn't work right otherwise
+
+-- settings
+-- default particle system is for if you're particle string input is invalid or not wired
+-- dorestarttimer fixes a bug where looping particles don't loop, but won't work well for certain types of particles
+-- restarttimerdelay is how long between each pulse, and its in seconds
+
+-- note: an invalid particle will error for you and anyone who also doesn't have that particle, but only on the client
+-- if you have that particle in your system, it will play for you but not for anyone else who doesn't have it
+
+local defaultparticlesystem = "clag_grey_billowy"
+local dorestarttimer = true
+local restarttimerdelay = 5
+
+if SERVER then
+
+    wire.adjustInputs({"On","Particle"},{"number","string"})
+    
+    local function checkValidInputString(checkstring)
+    
+        local outputstring = ""
+    
+        if checkstring == nil or checkstring == "" then
+        
+            outputstring = defaultparticlesystem
+            
+        else
+        
+            outputstring = checkstring
+            
+        end
+        
+        return outputstring
+        
+     end
+    
+    local function triggerParticle(state)
+    
+        local particlesystem = checkValidInputString(wire.ports.Particle)
+        
+        if state then
+    
+            net.start("UpdateParticleEmitter")
+                net.writeBit(wire.ports.On==1)
+                net.writeString(particlesystem)
+                net.writeEntity(chip())
+            net.send()
+        
+        end
+    end
+    
+    if dorestarttimer then
+    
+        local function timerParticle() triggerParticle(wire.ports.On==1) end
+    
+        timer.create( "particletimer", restarttimerdelay, 0, timerParticle, 1 ) -- this timer restarts every 5 seconds for the particle
+        
+    end
+    
+    hook.add("input","triggerinputs",function(name, val)
+        
+        triggerParticle(true)
+            
+    end)
+
+end
+
+if CLIENT then
+
+    local psysent
+
+    local function createParticleSystem(particlesystem)
+    
+        return particle.attach(chip(),particlesystem,0,{})
+        
+    end
+    
+    local function ceaseParticleSystem(particlesystem)
+    
+        if particlesystem ~= nil then
+        
+            if particlesystem:isValid() then
+            
+                particlesystem:stopEmission()
+                
+            end
+        end
+    end
+    
+    hook.add("net","particle",function(name,len,ply)
+    
+        if name=="UpdateParticleEmitter" then 
+        
+            local state = net.readBit()==1
+            local particlesystem = net.readString()
+            local target = net.readEntity()
+        
+            if target==chip() then
+            
+                ceaseParticleSystem(psysent)
+                
+                if state then
+                
+                    psysent = createParticleSystem(particlesystem)
+                    
+                end
+            
+           end
+        
+        end
+    
+    end)
+
+end
