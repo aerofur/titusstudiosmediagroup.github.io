@@ -24,9 +24,9 @@ define(
 			var dialog;
 
 			if ( browser.test( 'getusermedia' ) ) {
-				var toggleButtonEl = elHelper.createButton( 'webcam.webcam', 'webcam.webcamtitle', 'nav-button photo-button', parentEl );
-				var labelEl = elHelper.createLabel( 'webcam.webcamlabel', null, 'webcam-label label' );
-				var videoWrapperEl = elHelper.createEl( 'div', 'video-wrapper' );
+				//var toggleButtonEl = elHelper.createButton( 'webcam.webcam', 'webcam.webcamtitle', 'nav-button photo-button', parentEl );
+				//var labelEl = elHelper.createLabel( 'webcam.webcamlabel', null, 'webcam-label label' );
+				//var videoWrapperEl = elHelper.createEl( 'div', 'video-wrapper' );
 
 				var videoEl = document.createElement( 'video' );
 				videoEl.classList.add( 'cam-video' );
@@ -35,7 +35,7 @@ define(
 				videoEl.addEventListener( 'click', captureClicked );
 				videoWrapperEl.appendChild( videoEl );
 				
-				var triggerButtonEl = elHelper.createButton( 'webcam.trigger', 'webcam.triggertitle', 'cam-trigger-button button', null, captureClicked );
+				//var triggerButtonEl = elHelper.createButton( 'webcam.trigger', 'webcam.triggertitle', 'cam-trigger-button button', null, captureClicked );
 
 				dialog = Dialog( 'webcam-dialog', parentEl, toggleButtonEl )
 					.add( labelEl, videoWrapperEl, triggerButtonEl )
