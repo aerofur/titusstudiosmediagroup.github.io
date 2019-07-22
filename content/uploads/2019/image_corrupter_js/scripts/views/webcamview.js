@@ -35,7 +35,7 @@ define(
 				videoEl.addEventListener( 'click', captureClicked );
 				videoWrapperEl.appendChild( videoEl );
 				
-				//var triggerButtonEl = elHelper.createButton( 'webcam.trigger', 'webcam.triggertitle', 'cam-trigger-button button', null, captureClicked );
+				var triggerButtonEl = elHelper.createButton( 'webcam.trigger', 'webcam.triggertitle', 'cam-trigger-button button', null, captureClicked );
 
 				dialog = Dialog( 'webcam-dialog', parentEl, toggleButtonEl )
 					.add( labelEl, videoWrapperEl, triggerButtonEl )
