@@ -87,10 +87,7 @@ require( [
 	var canvasView = CanvasView( workspaceView.el, navView.el );
 	var openFileView = OpenFileView( navView.el );
 	var saveView = SaveView( navView.el );
-	var webcamView = WebCamView( navView.el );
-	var shareView = ShareView( navView.el );
 	var settingsView = SettingsView( navView.el );
-	var aboutView = AboutView( navView.el );
 	var fullscreenView = FullscreenView( workspaceView.el );
 	var downloadView = DownloadView( workspaceView.el );
 	var dragAndDropView = DragAndDropView( canvasView.el );
@@ -162,26 +159,7 @@ require( [
 			.on( 'glitch', canvasView.putImageData )
 			.on( 'glitch', canvasView.createImageUrl( shareModel.updateUrl ) )
 			.on( 'glitch', updateDownloadLink );
-
-		shareView
-			.on( 'share', shareModel.upload )
-			.on( 'deletefromimgur', shareModel.remove );
-
-		shareModel
-			.on( 'uploadstart', shareView.showUpload )
-			.on( 'uploadend', shareView.hideUpload )
-			.on( 'uploadcomplete', shareView.uploadComplete )
-			.on( 'uploadcomplete', glitchModel.getImageGenerationFn( saveNewEntry ) )
-			.on( 'removecomplete', storageModel.removeImgurData )
-			.on( 'removecomplete', shareView.hideShareLinks )
-			.on( 'error', indicatorView.showError )
-			.on( 'error', shareView.handleError )
-			.on( 'statusmessage', indicatorView.showMessage );
-
-		webcamView
-			.on( 'video', imageModel.loadFromVideo )
-			.on( 'error', indicatorView.showError );
-
+		
 		dragAndDropView
 			.on( 'drop', imageModel.loadFromFile )
 			.on( 'drop', canvasView.hide );
