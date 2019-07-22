@@ -8,7 +8,7 @@ define(
 			}
 
 			var self = this;
-			var buttonEl = elHelper.createButton( 'about.info', 'about.infotitle', 'nav-button info-button', parentEl );
+			//var buttonEl = elHelper.createButton( 'about.info', 'about.infotitle', 'nav-button info-button', parentEl );
 			var dialog = Dialog( 'about-dialog', parentEl, buttonEl );
 			var aboutEl = elHelper.createEl( 'div', 'about-content' );
 			var textEl = document.querySelector( '.description' );
