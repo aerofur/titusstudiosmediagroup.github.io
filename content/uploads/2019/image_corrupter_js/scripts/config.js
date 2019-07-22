@@ -44,7 +44,14 @@ define(
 			},
 			origin: location.protocol + '//' + location.host + ( location.port !== '' ? ':' + location.port : '' ),
 			share: {
-				appURL: 'https://titusstudiosmediagroup.github.io/content/uploads/2019/image_corrupter_js/',
+				appURL: 'https://snorpey.github.io/jpg-glitch',
+				sharer: {
+					facebook: 'https://www.facebook.com/sharer/sharer.php',
+					twitter: 'https://twitter.com/intent/tweet',
+					reddit: 'https://www.reddit.com/submit',
+					pinterest: 'https://pinterest.com/pin/create/button/',
+					vkontakte: 'http://vk.com/share.php'
+				}
 			}
 		};
 	}

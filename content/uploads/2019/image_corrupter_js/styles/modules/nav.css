@@ -84,6 +84,18 @@
 	background-image: url(../../images/icon/content-save.svg);
 }
 
+.photo-button::before {
+	background-image: url(../../images/icon/camera.svg);
+}
+
+.share-toggle-button::before {
+	background-image: url(../../images/icon/share-variant.svg);
+}
+
+.info-button::before {
+	background-image: url(../../images/icon/information-outline.svg);
+}
+
 .settings-button::before {
 	background-image: url(../../images/icon/settings.svg);
 }
