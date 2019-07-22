@@ -24,7 +24,7 @@ define(
 			var dialog;
 
 			if ( browser.test( 'getusermedia' ) ) {
-				//var toggleButtonEl = elHelper.createButton( 'webcam.webcam', 'webcam.webcamtitle', 'nav-button photo-button', parentEl );
+				var toggleButtonEl = elHelper.createButton( 'webcam.webcam', 'webcam.webcamtitle', 'nav-button photo-button', parentEl );
 				var labelEl = elHelper.createLabel( 'webcam.webcamlabel', null, 'webcam-label label' );
 				var videoWrapperEl = elHelper.createEl( 'div', 'video-wrapper' );
 
