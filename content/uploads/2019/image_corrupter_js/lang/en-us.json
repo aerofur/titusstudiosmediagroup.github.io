@@ -136,17 +136,7 @@
 			"del": "The image was successfully deleted from Imgur."
 		}
 	},
-	"webcam": {
-		"webcam": "Webcam",
-		"webcamtitle": "Take a picture with your webcam",
-		"webcamlabel": "Take a Picture",
-		"trigger": "Take Picture",
-		"triggertitle": "Click to take a picture with your webcam",
-		"picture": "Webcam Picture {$1}",
-		"error": {
-			"access": "Could not access your webcam."
-		}
-	},
+
 	"welcome": {
 		"firstvisit": [
 			"Welcome! Looks like this is your first time here.",
