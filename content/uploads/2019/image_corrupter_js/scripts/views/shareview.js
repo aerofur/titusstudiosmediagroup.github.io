@@ -24,7 +24,7 @@ define(
 			var blankTargetStr = '_blank';
 			var disabledAttr = 'disabled';
 
-			//var navButtonEl = elHelper.createButton( 'share.share', 'share.sharetitle', 'nav-button share-toggle-button ' + isOnlineCssClass, parentEl );
+			var navButtonEl = elHelper.createButton( 'share.share', 'share.sharetitle', 'nav-button share-toggle-button ' + isOnlineCssClass, parentEl );
 
 			var statusEl = elHelper.createEl( 'span', 'upload-status' );
 			loc( statusEl, 'textContent', 'share.uploading' );
