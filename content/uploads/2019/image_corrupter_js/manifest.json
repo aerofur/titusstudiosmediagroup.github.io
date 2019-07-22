@@ -3,7 +3,7 @@
 	"short_name": "Glitch Tool",
 	"start_url": "./?utm_source=web_app_manifest",
 	"display": "standalone",
-	"background_color": #36393F,
+	"background_color": "black",
 	"orientation": "any",
 	"theme_color": "black",
 	"service_worker": { "src": "serviceworker.js" }
