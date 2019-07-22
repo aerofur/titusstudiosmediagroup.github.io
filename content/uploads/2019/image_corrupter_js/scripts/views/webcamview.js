@@ -25,7 +25,7 @@ define(
 
 			if ( browser.test( 'getusermedia' ) ) {
 				//var toggleButtonEl = elHelper.createButton( 'webcam.webcam', 'webcam.webcamtitle', 'nav-button photo-button', parentEl );
-				//var labelEl = elHelper.createLabel( 'webcam.webcamlabel', null, 'webcam-label label' );
+				var labelEl = elHelper.createLabel( 'webcam.webcamlabel', null, 'webcam-label label' );
 				var videoWrapperEl = elHelper.createEl( 'div', 'video-wrapper' );
 
 				var videoEl = document.createElement( 'video' );
