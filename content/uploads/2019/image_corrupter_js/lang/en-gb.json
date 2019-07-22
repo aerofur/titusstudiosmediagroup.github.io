@@ -1,7 +1,7 @@
 {
 	"lang": "en-GB",
 	"index": {
-		"title": "Image Glitch Tool",
+		"title": "Image Corrupter Tool",
 		"description": "With this app, you can glitch your own images by dragging an image into the browser window. Use the sliders in the control panel to alter the glitched parameters. The image updates in real time.\n\nThis app corrupts some bytes in an image. Because of the way [JPEG encoding](https://en.wikipedia.org/wiki/JPEG) works, the corrupted file still shows a corrupted image."
 	},
 	"settings": {
