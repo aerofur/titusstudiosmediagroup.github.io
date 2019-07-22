@@ -24,7 +24,7 @@ define(
 			var blankTargetStr = '_blank';
 			var disabledAttr = 'disabled';
 
-			//var navButtonEl = elHelper.createButton( 'share.share', 'share.sharetitle', 'nav-button share-toggle-button ' + isOnlineCssClass, parentEl );
+			var navButtonEl = elHelper.createButton( 'share.share', 'share.sharetitle', 'nav-button share-toggle-button ' + isOnlineCssClass, parentEl );
 
 			var statusEl = elHelper.createEl( 'span', 'upload-status' );
 			loc( statusEl, 'textContent', 'share.uploading' );
@@ -32,7 +32,7 @@ define(
 			var uploadInfoEl = elHelper.createEl( 'p', 'share-info' );
 			loc( uploadInfoEl, 'innerHTML', 'share.info' );
 
-			//var uploadButtonEl = elHelper.createButton( 'share.upload', 'share.uploadtitle', 'upload-button button ' + isOnlineCssClass, null, uploadClicked );
+			var uploadButtonEl = elHelper.createButton( 'share.upload', 'share.uploadtitle', 'upload-button button ' + isOnlineCssClass, null, uploadClicked );
 
 			var imgLinkLabel = elHelper.createLabel( 'share.imagelink', 'img-link-input', 'img-link-label label' );
 			var imgLinkEl = elHelper.createLink( null, 'share.opennewtabtitle', null, blankTargetStr, 'img-link' );
