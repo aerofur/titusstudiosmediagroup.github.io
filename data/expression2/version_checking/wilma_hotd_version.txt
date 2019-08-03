@@ -1,3 +1,1 @@
-version:2.0.2
-name:Here Be Dragons!
-changelog:Changelog can not be displayed on this older version, please get the new update at github.com/MagnumMacKivler/dragonscript/
+version:2.0.1
