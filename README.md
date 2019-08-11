@@ -1,2 +1,4 @@
-<img src="https://i.imgur.com/Kj01iOH.png" width="23%"> 
-# [What we do]() [Our Story]() [Blog]() [About Us]()
+# Hi,
+We are currently working on a new website. Sit tight, we will be back soon!
+
+For updates, Follow our Twitter: https://twitter.com/TitusStudiosMG
