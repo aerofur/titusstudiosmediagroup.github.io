@@ -35,7 +35,7 @@ Titus Studios is planning to buy a new Studio space between Late 2020 ~ 2021, th
 
 This will allow us to expand what content we can produce and have bigger area for larger projects
 
-![](https://i.imgur.com/f7ErjcZ.png)
+![](https://i.imgur.com/wzharxz.jpg)
 
 # Current Camera & Audio Equipment
 
