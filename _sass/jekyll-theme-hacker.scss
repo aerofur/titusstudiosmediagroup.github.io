@@ -20,7 +20,7 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 90%;
+  width: 100%;
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -48,8 +48,8 @@ header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed $conifer; //header;
-  padding: 0px 0;
-  margin: 0 0 0px 0;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
 }
 
 header h1 {
