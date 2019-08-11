@@ -22,7 +22,7 @@ Well that's what my online friends like to call me. I am the owner of the Titus 
 
 We continue to keep our high standards and produce high quality content for the public to view.
 
-![img_adobe_pr2019_preview1](https://i.imgur.com/TNgSoxR.png)
+![](https://i.imgur.com/itAlaFR.jpg)
 
 # Looking Ahead
 Titus Studios is planning to buy a new Studio space between Late 2020 ~ 2021, the new Studio will have more room for:
@@ -35,7 +35,7 @@ Titus Studios is planning to buy a new Studio space between Late 2020 ~ 2021, th
 
 This will allow us to expand what content we can produce and have bigger area for larger projects
 
-![img_adobe_au2018_preview1](https://i.imgur.com/f7ErjcZ.png)
+![](https://i.imgur.com/f7ErjcZ.png)
 
 # Current Camera & Audio Equipment
 
