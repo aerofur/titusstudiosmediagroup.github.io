@@ -25,6 +25,12 @@ body {
   margin: 0 auto;
 }
 
+
+.headercontainer {
+  width: 100%;
+  margin: 0 auto;
+}
+
 section {
   display: block;
   margin: 0 0 20px 0;
@@ -45,7 +51,7 @@ li {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0);
   width: 100%;
   //border-bottom: 1px dashed $conifer; //header;
   padding: 20px 0;
