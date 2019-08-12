@@ -242,6 +242,14 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+ahedder {
+  font-size: 30px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  color: #000;
+  letter-spacing: -1px;
+  -webkit-font-smoothing: antialiased;
+}
+
 /* Clearfix */
 
 .cf:before, .cf:after {
