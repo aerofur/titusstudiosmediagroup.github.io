@@ -27,23 +27,8 @@ body {
 
 
 .headercontainer {
-  width: 97%;
+  width: 98%;
   margin: 0 auto;
-}
-
-.headernavcontainer {
-  width: 100%;
-  margin: 0 0 20px 0;
-}
-
-.navtextcontainer {
-  width: 20%;
-  margin: 10px 10px 0px 0;
-}
-
-.navmeshcontainer {
-  width: 100%;
-  margin: 0px 0px 0px 0;
 }
 
 section {
@@ -76,7 +61,7 @@ header {
 header h1 {
   font-size: 30px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0 0 0 0px;
   font-weight: bold;
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
   color: $conifer;//$header;
