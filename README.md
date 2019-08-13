@@ -1,5 +1,3 @@
-<!-- EEEE | Hi -->
-
 # Hi,
 We are currently working on a new website. Sit tight, we will be back soon!
 
