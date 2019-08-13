@@ -11,7 +11,7 @@ Well that's what my online friends like to call me. I am the owner of the Titus 
  * Begun modeling again.
 
 
-<div class="bannerimage2">
+<div class="fullcontainer">
 <img src="https://i.imgur.com/CGO5WeV.jpg" width="100%">
 </div> 
 
