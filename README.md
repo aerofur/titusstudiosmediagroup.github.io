@@ -1,8 +1,4 @@
-<html>
-  <head>
-    <title>Home | Titus Studios</title>
-  </head>
-</html>
+<!-- EEEE | Hi -->
 
 # Hi,
 We are currently working on a new website. Sit tight, we will be back soon!
