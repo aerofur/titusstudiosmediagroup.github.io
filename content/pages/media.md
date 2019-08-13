@@ -1,10 +1,10 @@
 
 # Media
 
-Welcome to the Media Page. On this page you will find links to any Publatcions, Photo Gallery, Etc.
+Welcome to the Media Page. On this page you will find links to any Publications, Our Photo Gallery, Etc.
 
 ### Photo Gallery
- * https://titusstudiosmediagroup.github.io/content/pages/gallery
+ * [https://titusstudiosmediagroup.github.io/content/pages/gallery](https://titusstudiosmediagroup.github.io/content/pages/gallery)
  
 ### BrightStar™ Engine Management & Control System
  * [Documentation](https://github.com/TitusStudiosMediaGroup/brightstar/blob/master/README.md)
