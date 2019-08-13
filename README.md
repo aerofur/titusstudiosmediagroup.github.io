@@ -1,4 +1,8 @@
-<head> <title>Home | Titus Studios</title> </head>
+<html>
+  <head>
+    <title>Home | Titus Studios</title>
+  </head>
+</html>
 
 # Hi,
 We are currently working on a new website. Sit tight, we will be back soon!
