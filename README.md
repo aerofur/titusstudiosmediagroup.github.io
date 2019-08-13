@@ -11,7 +11,7 @@ Well that's what my online friends like to call me. I am the owner of the Titus 
  * BrightStar Control System **FINISHED**
  * Begun modeling again.
 
-<hl>
+
 
 
 # What I Do
