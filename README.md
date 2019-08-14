@@ -10,12 +10,6 @@ Well that's what my online friends like to call me. I am the owner of the Titus 
  * BrightStar Control System **FINISHED**
  * Begun modeling again.
 
-<body>
-<div class="fullcontainer">
-<img src="https://i.imgur.com/CGO5WeV.jpg" width="100%">
-</div> 
-</body>
-
 
 # What I Do
 * Photographer
@@ -26,6 +20,10 @@ Well that's what my online friends like to call me. I am the owner of the Titus 
 * Locomotive Nerd
 * Canon DSLR Fanboy
 * Developer
+
+<div class="fullcontainer">
+<img src="https://i.imgur.com/CGO5WeV.jpg" width="100%">
+</div> 
 
 # What is **Titus Studios Media?**
 **Titus Studios Media** *(Also known as Titus Studios Media Group)* is a Media Production Business that I run locally out of my home. We edit and produce content for YouTube and other such online services. Titus Studios was established on the **25th of July 2013**, since then we have made/edited numerous series, documentaries, short films, and have been editing for a number of YouTubers.
