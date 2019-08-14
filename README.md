@@ -10,10 +10,11 @@ Well that's what my online friends like to call me. I am the owner of the Titus 
  * BrightStar Control System **FINISHED**
  * Begun modeling again.
 
-
+<body>
 <div class="fullcontainer">
 <img src="https://i.imgur.com/CGO5WeV.jpg" width="100%">
 </div> 
+</body>
 
 
 # What I Do
