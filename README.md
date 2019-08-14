@@ -21,10 +21,6 @@ Well that's what my online friends like to call me. I am the owner of the Titus 
 * Canon DSLR Fanboy
 * Developer
 
-<div class="fullcontainer">
-<img src="https://i.imgur.com/CGO5WeV.jpg" width="100%">
-</div> 
-
 # What is **Titus Studios Media?**
 **Titus Studios Media** *(Also known as Titus Studios Media Group)* is a Media Production Business that I run locally out of my home. We edit and produce content for YouTube and other such online services. Titus Studios was established on the **25th of July 2013**, since then we have made/edited numerous series, documentaries, short films, and have been editing for a number of YouTubers.
 
@@ -40,3 +36,12 @@ Titus Studios is planning to buy a new Studio space between Late 2020 ~ 2021, th
 * Editing Den
 
 This will allow us to expand what content we can produce and have bigger area for larger projects
+
+
+<div class="fullcontainer"> <!–– adding banner image -->
+ <br>
+  <br>
+    <img src="https://i.imgur.com/CGO5WeV.jpg" width="100%">
+  <br>
+  <br>
+</div> 
