@@ -326,36 +326,35 @@ aheader {
 
 .title {
 	position: relative
-	z-index: 50
 	h1
-		font-size: 15rem
-		font-weight: bold
-		span
-			vertical-align: middle
-			margin: 0 30px
+	font-size: 15rem
+	font-weight: bold
+	span
+	vertical-align: middle
+	margin: 0 30px
 }
 
 .message {
 	margin-top: 50px
 	h2
-		font-size: 1.8rem
+	font-size: 1.8rem
 }
 
 .action {
 	margin-top: 30px
 	button
-		padding: 10px 20px
-		font-family: Poppins
-		font-size: 1.2rem
-		color: #fff
-		border: 2px solid $shadow
-		background-color: $shadow
-		border-radius: 50px
-		+transition(all .2s ease)
-		box-shadow: 0px 0px 15px $shadow
-		&:hover
-			cursor: pointer
-			background-color: transparent
+	padding: 10px 20px
+	font-family: Poppins
+	font-size: 1.2rem
+	color: #fff
+	border: 2px solid $shadow
+	background-color: $shadow
+	border-radius: 50px
+	+transition(all .2s ease)
+	box-shadow: 0px 0px 15px $shadow
+	&:hover
+	cursor: pointer
+	background-color: transparent
 }
 
 * {box-sizing:border-box}
