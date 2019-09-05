@@ -1,4 +1,5 @@
 
+<!--
 # How to make a Fursona Badge
 
 ## What is a Badge?
@@ -150,6 +151,5 @@ Hope you enjoyed this short'ish tutorial on How to make a Fursona Badge! If you 
 ### Referenced Websites 
 1. [WikiFur](https://en.wikifur.com/wiki/Conbadge), https://en.wikifur.com/wiki/Conbadge - Data on Badges, Types, Etc.
 
-
-
+-->
 
