@@ -76,30 +76,6 @@ header {
   margin: 0 0 0px 0;
 }
 
-/* Nav Menu */
-
-/* REQUIRES FALLBACK FOR FIREFOX */
-
-$main-color: #d7a150;
-$secondary-color: #283271;
-
-* {
-  box-sizing: border-box;
-}
-
-html, body { 
-  height: 100%;
-}
-
-nav {
-  display: flex;
-  height: 100%;
-}
-
-nav ul {
-  align-self: center;
-}
-
 .site-footer {
   background: rgba(66, 66, 66, 255);
   width: 100%;
@@ -462,6 +438,9 @@ hr {
 /* Links
    a, a:hover, a:visited
 */
+
+$main-color: #d7a150;
+$secondary-color: #283271;
 
 a {
   color: #63c0f5;
