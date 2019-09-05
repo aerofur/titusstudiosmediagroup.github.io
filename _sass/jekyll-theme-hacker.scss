@@ -439,27 +439,10 @@ hr {
    a, a:hover, a:visited
 */
 
-$main-color: #63c0f5;
-$secondary-color: #f37021;
-
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   font-size:18px;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(
-    	to right,
-	    $secondary-color,
-	    $secondary-color 50%,
-	    $main-color 50%);
-	    background-size: 200% 100%;
-	    background-position: 100%;
-}
-
-a:hover {
-  transition: all 0.3s cubic-bezier(0.000, 0.000, 0.230, 1);
-  background-position: 0%;
 }
 
 p {
@@ -473,12 +456,30 @@ anolink {
   text-align:right;
 }
 
+
+$main-color: #63c0f5;
+$secondary-color: #f37021;
+
 aheader {
   font-size: 30px;
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
   color: #000;
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(
+    	to right,
+	    $secondary-color,
+	    $secondary-color 50%,
+	    $main-color 50%);
+	    background-size: 200% 100%;
+	    background-position: 100%;
+}
+
+aheader:hover {
+  transition: all 0.3s cubic-bezier(0.000, 0.000, 0.230, 1);
+  background-position: 0%;
 }
 
 /* Clearfix */
