@@ -76,6 +76,30 @@ header {
   margin: 0 0 0px 0;
 }
 
+/* Nav Menu */
+
+/* REQUIRES FALLBACK FOR FIREFOX */
+
+$main-color: #d7a150;
+$secondary-color: #283271;
+
+* {
+  box-sizing: border-box;
+}
+
+html, body { 
+  height: 100%;
+}
+
+nav {
+  display: flex;
+  height: 100%;
+}
+
+nav ul {
+  align-self: center;
+}
+
 .site-footer {
   background: rgba(66, 66, 66, 255);
   width: 100%;
@@ -443,6 +467,20 @@ a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   font-size:18px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(
+    	to right,
+	    $secondary-color,
+	    $secondary-color 50%,
+	    $main-color 50%);
+	    background-size: 200% 100%;
+	    background-position: 100%;
+}
+
+a:hover {
+  transition: all 0.3s cubic-bezier(0.000, 0.000, 0.230, 1);
+  background-position: 0%;
 }
 
 p {
@@ -481,23 +519,4 @@ aheader {
 
 * {box-sizing:border-box}
 
-/* unvisited link */
-a:link {
-  color: conifer;
-}
-
-/* visited link */
-a:visited {
-  color: conifer;
-}
-
-/* mouse over link */
-a:hover {
-  color: conifer;
-}
-
-/* selected link */
-a:active {
-  color: conifer;
-}
 
