@@ -43,10 +43,8 @@ body {
   margin: 0 auto;
 }
 
-.headertextcontainer {
-  width: 100%;
-  margin: 0 auto;
-  padding: 0px 20px;
+.htext {
+  padding: 0 0 0 5vw;
 }
 
 section {
@@ -465,7 +463,6 @@ aheader {
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
   color: #000;
   letter-spacing: -1px;
-  padding: 0 0 0 5vw;
   -webkit-font-smoothing: antialiased;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
