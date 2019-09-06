@@ -1,9 +1,3 @@
-![Banner](/assets/images/IMG_0286_2.png)
-![Logo](/assets/images/IMG_0286_3.png)
-
-## [Home](https://titusstudiosmediagroup.github.io/)      |      [About](https://titusstudiosmediagroup.github.io/content/pages/about)     |    [Projects](https://titusstudiosmediagroup.github.io/content/pages/projects)      |      [Blog & Tutorial Index](https://titusstudiosmediagroup.github.io/blogindex)      |      [Gallery](https://titusstudiosmediagroup.github.io/content/pages/gallery)      |      [Contact](https://titusstudiosmediagroup.github.io/content/pages/contact)
-
-
 # Living In New Zealand
 
 Living in New Zealand is a blast, no matter where you go in our country there are always beautiful scenery. I have always lived in New Zealand and *as of April 2019* I have not traveled outside of New Zealand. I plan to some day but flights are expensive and me and my family are quite busy.
