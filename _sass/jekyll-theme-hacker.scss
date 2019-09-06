@@ -360,6 +360,12 @@ ol {
     padding-inline-start: 40px;
 }
 
+em {
+    display: block;
+    font-style: italic;
+    margin: 0 14vw 0;
+}
+
 blockquote {
   color: $blockquote-color;
   padding-left: 10px;
