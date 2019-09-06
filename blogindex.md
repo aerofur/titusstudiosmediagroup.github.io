@@ -12,10 +12,3 @@
 
  * [How to make a Fursona Badge (Con Badge)](https://titusstudiosmediagroup.github.io/content/uploads/2019/badge-guide)
 
-<br>
-
-# Misc
-
- * [Website Updates](https://titusstudiosmediagroup.github.io/updates)
-
-
