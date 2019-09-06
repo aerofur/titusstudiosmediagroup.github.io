@@ -2,5 +2,14 @@ theme: jekyll-theme-hacker
 google_analytics: UA-142625828-1
 
 url: "https://titusstudiosmediagroup.github.io/" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+
+sitemap:
+    filename: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
