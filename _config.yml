@@ -3,5 +3,4 @@ google_analytics: UA-142625828-1
 
 url: "https://titusstudiosmediagroup.github.io/" # the base hostname & protocol for your site
 
-gems: 
-      - jekyll-sitemap
+gems: - jekyll-sitemap
