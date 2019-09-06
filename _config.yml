@@ -5,3 +5,12 @@ url: "https://titusstudiosmediagroup.github.io/" # the base hostname & protocol 
 
 gems: 
       - jekyll-sitemap
+      
+      
+defaults:
+  -
+    scope:
+      path:            "assets/**/*"
+      path:            "data/**/"
+    values:
+      sitemap:         false
