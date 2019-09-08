@@ -5,9 +5,7 @@ url: "https://titusstudiosmediagroup.github.io/" # the base hostname & protocol 
 
 gems: 
       - jekyll-sitemap
-      
-  plugins:
-    - jekyll-seo-tag
+      - jekyll-seo-tag
       
       
 defaults:
