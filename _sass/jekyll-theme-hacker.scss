@@ -96,6 +96,7 @@ header {
 .topnav {
   background-color: #fff;
   overflow: hidden;
+  display: none;
 }
 
 /* Style the links inside the navigation bar */
@@ -136,10 +137,6 @@ header {
     float: right;
     display: block;
   }
-}
-
-@media screen (max-width: 1000px) {
-  .topnav {display: none;}
 }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
