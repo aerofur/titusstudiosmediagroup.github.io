@@ -1,4 +1,4 @@
-<!--Home-->
+<customtitle>Home</customtitle>
 
 # Hi, I'm Titus!
 *Pronounced [TIE-TUS]*
