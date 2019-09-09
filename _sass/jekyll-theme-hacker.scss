@@ -373,7 +373,6 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
-  color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -384,6 +383,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 30px;
   /*font-size:1.5vw;*/
   margin: 0 14vw 0;
+  color: $header;
 }
 
 #main_content h2 {
@@ -397,12 +397,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
   /*font-size:1.3vw;*/
   margin: 0 14vw 0;
+  color: $header;
 }
 
 #main_content h4 {
   font-size: 14px;
   /*font-size:1.2vw;*/
   margin: 0 14vw 0;
+  color: $header;
 }
 
 #main_content h5 {
@@ -410,6 +412,7 @@ h1, h2, h3, h4, h5, h6 {
   /*font-size:1.1vw;*/
   text-transform: uppercase;
   margin: 0 14vw 5px;
+  color: $header;
 }
 
 #main_content h6 {
