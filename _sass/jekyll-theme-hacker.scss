@@ -94,8 +94,9 @@ header {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #fff;
   overflow: hidden;
+  display: none;
 }
 
 /* Style the links inside the navigation bar */
@@ -117,7 +118,7 @@ header {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #f37021;
   color: white;
 }
 
