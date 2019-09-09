@@ -115,6 +115,11 @@ header {
   color: black;
 }
 
+.navicon {
+    float: left;
+    display: block;
+}
+
 /* Add an active class to highlight the current page */
 .topnav a.active {
   background-color: #f37021;
