@@ -138,7 +138,7 @@ header {
   }
 }
 
-@media screen and not (max-width: 1000px) {
+@media screen (max-width: 1000px) {
   .topnav {display: none;}
 }
 
