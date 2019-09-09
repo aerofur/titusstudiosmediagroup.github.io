@@ -390,14 +390,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   /*font-size:1.4vw;*/
   margin: 0 14vw 0;
-  color: rgba(0, 0, 0, 0);
+  color: $header;
 }
 
 #main_content h3 {
   font-size: 18px;
   /*font-size:1.3vw;*/
   margin: 0 14vw 0;
-  color: $header;
+  color: rgba(0, 0, 0, 0);
 }
 
 #main_content h4 {
