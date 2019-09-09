@@ -400,10 +400,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
   /*font-size:1.3vw;*/
   margin: 0 14vw 0;
-  color: $header;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  color: rgba(0, 0, 0, 0);
+  text-shadow: 0 0 0 rgba(0, 0, 0, 0),
+               0 0 0 rgba(0, 0, 0, 0),
+               0 0 0 rgba(0, 0, 0, 0);
 }
 
 #main_content h4 {
