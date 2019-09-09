@@ -1,4 +1,5 @@
-<customtitle id="Home">Home</customtitle>
+<h1 id="home">Home</h1>
+<customtitle id="home">Home</customtitle>
 
 # Hi, I'm Titus!
 *Pronounced [TIE-TUS]*
