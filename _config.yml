@@ -9,7 +9,6 @@ gems:
       - jekyll-sitemap
       - jekyll-seo-tag
       
-      
 defaults:
   -
     scope:
