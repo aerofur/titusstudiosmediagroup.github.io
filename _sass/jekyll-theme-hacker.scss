@@ -195,6 +195,11 @@ header h2 {
 /* Slide Show */
 * {box-sizing:border-box}
 
+.slideshow-container {
+  position: relative;
+  margin: auto;	
+}
+
 /* Hide the images by default */
 mySlides {
   /*display: none;*/
