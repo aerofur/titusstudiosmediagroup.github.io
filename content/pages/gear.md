@@ -1,4 +1,6 @@
-# Cameras
+# Our Gear
+
+## Cameras
 
 ![image](https://i.imgur.com/s9wTEvq.png)
 
@@ -12,7 +14,7 @@
 
 **GoPro Hero 3+ Black** Our GoPro. Great for wide angle video (where it is needed), POV shots, etc. We usually use it in vehicles, for time lapses or as an interior camera, as its low profile body and small size makes it ideal.
 
-# Lenses
+## Lenses
 
 ![image](https://i.imgur.com/0gwSo8P.png)
 
@@ -30,7 +32,7 @@
 
 **Canon EF 50mm Lens** Our most unused lens out of them all, our 50mm. Great for portraits, of which we do little to none of. Might be handy some day.
 
-# Audio
+## Audio
 
 ![image](https://i.imgur.com/0Y3GEcQ.png)
 
