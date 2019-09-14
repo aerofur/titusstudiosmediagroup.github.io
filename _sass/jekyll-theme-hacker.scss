@@ -193,18 +193,22 @@ header h2 {
 }
 
 /* Slide Show */
-
 * {box-sizing:border-box}
 
 /* Slideshow container */
-slide {
-  position: absolute;
-  transition: opacity .5s ease-in;
-  display: block;
-  margin: 0 auto;
+
+.slideshow-container {
+  position: relative;
+  margin: auto;
 }
 
-slide + slide { opacity: 0; }
+/* Hide the images by default */
+.mySlides {
+  /*display: none;*/
+  transition: opacity .5s ease-in;
+}
+
+mySlides + mySlides { opacity: 0; }
 
 /* Caption text */
 .text {
@@ -221,6 +225,8 @@ slide + slide { opacity: 0; }
     -1px 1px 0 #000,
     1px 1px 0 #000;  
 }
+
+
 
 /*CSS Preloader*/
 
