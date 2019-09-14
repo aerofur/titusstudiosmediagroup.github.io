@@ -41,13 +41,13 @@ I'm a avid programmer and I specialize in the language Expression 2 (E2) and Lua
 # Who we Edit For
 We currently *(As of 2019)* Edit for three YouTubers, we are currently the editing for;
 
-### [Sparky](https://www.youtube.com/channel/UCuoeboTy1Sdr-IBDPPygsJQ)
+## [Sparky](https://www.youtube.com/channel/UCuoeboTy1Sdr-IBDPPygsJQ)
 <img src="https://i.imgur.com/KLSzAuE.jpg" width="23%">
 
-### [FireAlarmNZ](https://www.youtube.com/channel/UC9IZqHPuyd89IlbGmYWj1aw)
+## [FireAlarmNZ](https://www.youtube.com/channel/UC9IZqHPuyd89IlbGmYWj1aw)
 <img src="https://i.imgur.com/DOln47z.jpg" width="23%">
 
 I also edit for my own personal YouTube channel. I do random all sorts of content, and post when I find its needed or have something to show. My topics are vast and are forever changing, so stay tuned!
 
-### [TitusStudios](https://www.youtube.com/channel/UC3HWf_aR5xBSLf5c0PhofnA)
+## [TitusStudios](https://www.youtube.com/channel/UC3HWf_aR5xBSLf5c0PhofnA)
 <img src="https://i.imgur.com/Kj01iOH.png" width="23%">
