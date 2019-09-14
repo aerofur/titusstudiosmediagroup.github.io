@@ -1,4 +1,5 @@
 # Our Gear
+<hr>
 
 ## Cameras
 
@@ -6,9 +7,13 @@
 
 **Canon EOS 800D** Our main videography and photography DSLR. Good general purpose DSLR, has good low light, and when paired with some good glass, you can get some amazing footage and/or photos out of it. Does 60FPS at 1080p, which is plenty for what we make.
 
+<hr>
+
 ![image](https://i.imgur.com/X7kSIuu.png)
 
 **Canon EOS 1200D** Secondary DSLR, was our previous main shooter. Now is used for photography or a second angle of video now and then.
+
+<hr>
 
 ![image](https://i.imgur.com/To74bUV.png)
 
@@ -20,13 +25,19 @@
 
 **Canon EF-S 18-55mm Lens** Main shooter lens. Is not the best lens by all means, but it gets the job done. 
 
+<hr>
+
 ![image](https://i.imgur.com/Dvpb5WG.png)
 
 **Tamron 70-210mm Lens** Main Zoom Lens. Is quite heavy, and you **MUST** hold it from the lens, not the body, or the lens mount on our Canons will snap right off. Great for long distance zoom shots.
 
+<hr>
+
 ![image](https://i.imgur.com/ZDk62tr.png)
 
 **Canon EF 24-70mm Lens** The little brother of the Tamron 70-210mm Lens. Good for general zoom shots, nothing much else to it.
+
+<hr>
 
 ![image](https://i.imgur.com/Z68wLOz.png)
 
@@ -37,6 +48,8 @@
 ![image](https://i.imgur.com/0Y3GEcQ.png)
 
 **Rode Videomic Pro** Our main DSLR microphone. Has great audio quality straight out of the box. Great for almost all of our videos. We do use a wireless lavalier mic for far distance or "presenter" shots.
+
+<hr>
 
 ![image](https://i.imgur.com/VdzfMmo.png)
 
