@@ -200,9 +200,12 @@ header h2 {
   margin: auto;
 }
 
-.slideshow > div { 
-    position: absolute; 
+slide {
+  position: absolute;
+  transition: opacity .5s ease-in;
 }
+
+slide + slide { opacity: 0; }
 
 /* Caption text */
 .text {
