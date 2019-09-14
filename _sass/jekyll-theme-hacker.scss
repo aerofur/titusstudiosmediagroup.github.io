@@ -195,12 +195,12 @@ header h2 {
 /* Slide Show */
 
 /* Slideshow container */
-#slideshow { 
+.slideshow { 
   position: relative;
   margin: auto;
 }
 
-#slideshow > div { 
+.slideshow > div { 
     position: absolute; 
 }
 
