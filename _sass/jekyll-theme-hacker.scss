@@ -206,6 +206,7 @@ header h2 {
 slide {
   position: absolute;
   transition: opacity .5s ease-in;
+  display: block;
 }
 
 slide + slide { opacity: 0; }
