@@ -42,7 +42,7 @@
 
 **Audio Technica AT2020 XLR** Our voiceover microphone. Has great audio quality when used with our mixer.
 
-# Post Audio Mixing
+## Post Audio Mixing
 
 ![image](https://i.imgur.com/P8cCT42.jpg)
 
