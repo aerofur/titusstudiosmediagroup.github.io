@@ -197,15 +197,11 @@ header h2 {
 * {box-sizing:border-box}
 
 /* Slideshow container */
-.slideshow-container {
-  position: relative;
-  display: block;
-  margin: 0 auto;
-}
-
 slide {
+  position: absolute;
   transition: opacity .5s ease-in;
   display: block;
+  margin: 0 auto;
 }
 
 slide + slide { opacity: 0; }
