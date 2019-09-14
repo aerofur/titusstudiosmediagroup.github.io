@@ -194,11 +194,12 @@ header h2 {
 
 /* Slide Show */
 
+* {box-sizing:border-box}
+
 /* Slideshow container */
-.slideshow { 
+.slideshow-container {
   position: relative;
   margin: auto;
-  display: block;
 }
 
 slide {
