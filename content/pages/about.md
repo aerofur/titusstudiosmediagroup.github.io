@@ -15,7 +15,9 @@ As far as we know, The original creation of Titus Studios was to be a "Tech Blog
 *Pronounced [TIE-TUS]*
 Well that's what my online friends like to call me. I am the owner of the Titus Studios Media production business. 
 
-I'm a avid programmer and I specialize in the language Expression 2 (E2) and Lua. I have been branching out into new areas such as: HTML5, JavaScript, CSS, etc... As I built this website, from scratch, which was big challenge learning these new languages. There may be *minor* bugs here and there with my website but we will do our best to make sure they are fix as soon as possible.
+I'm a avid programmer and I specialize in the language Expression 2 (E2) and Lua. I have been branching out into new areas such as: HTML5, JavaScript, CSS, etc... As I built this website, from scratch, which was big challenge learning these new languages. There may be minor bugs here and there with my website but we will do our best to make sure they are fix as soon as possible.
+
+# Experssion 2
 
 ![](https://i.imgur.com/QBvSSyv.png)
 
