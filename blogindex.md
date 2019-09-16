@@ -1,3 +1,4 @@
+### Blog Index
 # Blogs
 
  * [Types of Fursuits - Pros and Cons](https://titusstudiosmediagroup.github.io/content/uploads/2019/types-of-fursuits)
