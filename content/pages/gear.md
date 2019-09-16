@@ -2,7 +2,6 @@
 <p><hr></p>
 
 ## Cameras
-<p><hr></p>
 
 ![image](https://i.imgur.com/s9wTEvq.png)
 
