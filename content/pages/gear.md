@@ -23,7 +23,7 @@
 ## Lenses
 <p><hr></p>
 
-![image](https://i.imgur.com/0gwSo8P.png)
+<img src="https://i.imgur.com/0gwSo8P.png" width="60%">
 
 **Canon EF-S 18-55mm Lens** Main shooter lens. Is not the best lens by all means, but it gets the job done. 
 
