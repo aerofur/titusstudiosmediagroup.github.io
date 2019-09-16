@@ -23,6 +23,8 @@ By far, Expression 2 is my best known language. Expression 2 is a lua based lang
 
 Remember there is not just one way to code something, there are several ways you can accomplish the same task in Expression 2, some are better than others... Figuring out which one is the best (for a task) can be difficult, depending if you want it to be optimized or if you want it to have less calculations running per-tick (usually 33 per second), most of this comes with long time experience.
 
+[Read more about Expression 2 Here](https://github.com/wiremod/wire/wiki/Expression-2)
+
 
 # What I Do
 * Photographer
