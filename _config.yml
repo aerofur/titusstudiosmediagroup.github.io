@@ -16,3 +16,8 @@ defaults:
       path:            "data/**/"
     values:
       sitemap:         false
+      
+seo:
+      name: Titus Studios
+      type: Organization
+      
