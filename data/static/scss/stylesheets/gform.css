@@ -20,7 +20,7 @@ margin-bottom: 6px;
 margin-top: 0;
 }
 
-.freebirdFormviewerViewFormCard exportFormCard {
+.freebirdFormviewerViewFormCard .exportFormCard {
 font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
 background-image: linear-gradient(
     to right,
