@@ -29,37 +29,13 @@ permalink: /embed-test.html
 <div class="container">
 <section id="main_content">  
 
-
+<script src="http://googleformrestyler.apixml.net/GoogleFormStyler.js"
+form="https://docs.google.com/forms/d/e/1FAIpQLSfSPUdmnDZ_pzjrAfuHGALF5ogd8g_0-0rG-ea-n00ir9jR4A/viewform?embedded=true">
+</script>
+	
 </section>
 </div>
 
-
-<script>
-// Create a new form, then add a checkbox question, a multiple choice question,
-// a page break, then a date question and a grid of questions.
-var form = FormApp.create('New Form');
-var item = form.addCheckboxItem();
-item.setTitle('What condiments would you like on your hot dog?');
-item.setChoices([
-        item.createChoice('Ketchup'),
-        item.createChoice('Mustard'),
-        item.createChoice('Relish')
-    ]);
-form.addMultipleChoiceItem()
-    .setTitle('Do you prefer cats or dogs?')
-    .setChoiceValues(['Cats','Dogs'])
-    .showOtherOption(true);
-form.addPageBreakItem()
-    .setTitle('Getting to know you');
-form.addDateItem()
-    .setTitle('When were you born?');
-form.addGridItem()
-    .setTitle('Rate your interests')
-    .setRows(['Cars', 'Computers', 'Celebrities'])
-    .setColumns(['Boring', 'So-so', 'Interesting']);
-Logger.log('Published URL: ' + form.getPublishedUrl());
-Logger.log('Editor URL: ' + form.getEditUrl()); 
-</script>
 
 
 </body>
