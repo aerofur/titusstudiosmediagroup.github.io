@@ -54,4 +54,22 @@ color: rgba(255, 255, 255, 0.38) !important
 color: rgba(255, 255, 255, 0.38) !important 
 }
 
+.quantumWizTextinputPaperinputInput {
+color: #fff !important 
+}
+
+.quantumWizTextinputPapertextareaInput {
+color: #fff !important 
+}
+
+.quantumWizTogglePapercheckboxInnerBox {
+ border: 8px solid rgba(255, 255, 255, 0.05) !important 
+}
+
+.freebirdThemedCheckbox.isChecked:not(.isDisabled), .freebirdThemedCheckbox.isIndeterminate:not(.isDisabled) {
+border-color: rgb(26, 115, 232) !important 
+}
+
+
+
 
