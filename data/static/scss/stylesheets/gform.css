@@ -1,11 +1,19 @@
 /* Replacement Stylesheet for Google Forms (gforms API) */
 
+/*
+!!-TEMP ZONE START-!!
+
+background-size: cover !important
+
+
+!!-TEMP ZONE END-!!
+*/
+
 $main-color: #450045;
 $secondary-color: #28002a;
 
 .freebirdFormviewerViewFormCard { 
 background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png) !important
-background-size: cover !important
 }
 
 .freebirdFormviewerViewFooterFooterContainer {
