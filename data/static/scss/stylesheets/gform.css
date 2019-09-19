@@ -3,7 +3,25 @@
 $main-color: #450045;
 $secondary-color: #28002a;
 
-.freebirdFormviewerViewFormCard {
+.freebirdFormviewerViewEmbedded { 
+color: #eaeaea;
+font-size: 16px;
+line-height: 1.5;
+font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+-webkit-font-smoothing: antialiased;
+box-sizing: border-box;
+background-color: #fff;
+background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png);
+background-size: cover;
+box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);
+word-wrap: break-word;
+padding-bottom: 0;
+border-radius: 6px;
+margin-bottom: 6px;
+margin-top: 0;
+}
+
+.freebirdFormviewerViewFormCard { 
 color: #eaeaea;
 font-size: 16px;
 line-height: 1.5;
