@@ -9,7 +9,7 @@ background-size: cover !important
 !!-TEMP ZONE END-!!
 */
 
-.freebirdFormviewerViewFormCard { 
+.freebirdFormviewerViewEmbedded .freebirdFormviewerViewFormCard { 
 background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png) !important
 }
 
