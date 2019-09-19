@@ -1,10 +1,26 @@
-
 /* Replacement Stylesheet for Google Forms (gforms API) */
 
 $main-color: #450045;
 $secondary-color: #28002a;
 
 .freebirdFormviewerViewEmbedded .freebirdFormviewerViewFormCard {
+font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+background-image: linear-gradient(
+    to right,
+    $secondary-color,
+    $secondary-color 50%,
+    $main-color 50%);
+    background-size: 100% 100%;
+    background-position: 100%;
+box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);
+word-wrap: break-word;
+padding-bottom: 0;
+border-radius: 6px;
+margin-bottom: 6px;
+margin-top: 0;
+}
+
+.freebirdFormviewerViewFormCard exportFormCard {
 font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
 background-image: linear-gradient(
     to right,
@@ -28,3 +44,5 @@ display: none !important
 .freebirdFormviewerViewNavigationPasswordWarning {
 display: none !important
 }
+
+
