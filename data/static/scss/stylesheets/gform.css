@@ -26,3 +26,24 @@ display: none !important
 display: none !important
 }
 
+.freebirdFormviewerViewItemsItemItemTitle {
+color: #fff !important 
+}
+
+.freebirdFormviewerViewFormContent {
+color: rgb(255, 255, 255) !important 
+}
+
+.freebirdThemedInput .exportFocusUnderline {
+background-color:  rgb(255, 255, 255) !important 
+}
+
+.quantumWizTextinputPapertextareaUnderline {
+background-color: rgba(255, 255, 255, 0.3) !important 
+}
+
+.quantumWizTextinputPapertextareaPlaceholder {
+color: rgba(255, 255, 255, 0.38) !important 
+}
+
+
