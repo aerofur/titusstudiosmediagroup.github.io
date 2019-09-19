@@ -10,7 +10,8 @@ background-size: cover !important
 */
 
 .freebirdFormviewerViewEmbedded .freebirdFormviewerViewFormCard { 
-background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png) !important
+background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png) !important;
+background-size: cover !important;
 }
 
 .freebirdFormviewerViewFooterFooterContainer {
