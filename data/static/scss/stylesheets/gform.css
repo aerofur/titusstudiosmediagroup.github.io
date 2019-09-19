@@ -3,7 +3,7 @@
 $main-color: #450045;
 $secondary-color: #28002a;
 
-.freebirdFormviewerViewEmbedded .freebirdFormviewerViewFormCard {
+.freebirdFormviewerViewFormCard {
 color: #eaeaea;
 font-size: 16px;
 line-height: 1.5;
@@ -29,7 +29,7 @@ display: none !important
 display: none !important
 }
 
-.freebirdFormviewerViewAccentBanner .freebirdSolidBackground {
+.freebirdSolidBackground {
 display: none !important
 }
 
