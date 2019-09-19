@@ -70,6 +70,8 @@ color: #fff !important
 border-color: rgb(26, 115, 232) !important 
 }
 
-
+.freebirdFormviewerViewNavigationNoSubmitButton {
+background-color: rgba(255, 255, 255, 0.25) !important 
+}
 
 
