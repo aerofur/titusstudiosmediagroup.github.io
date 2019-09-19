@@ -4,8 +4,8 @@ $main-color: #450045;
 $secondary-color: #28002a;
 
 .freebirdFormviewerViewFormCard { 
-background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png); !important
-background-size: cover; !important
+background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png) !important
+background-size: cover !important
 }
 
 .freebirdFormviewerViewFooterFooterContainer {
