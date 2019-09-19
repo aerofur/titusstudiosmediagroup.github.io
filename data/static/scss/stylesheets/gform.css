@@ -3,17 +3,7 @@
 $main-color: #450045;
 $secondary-color: #28002a;
 
-.freebirdFormviewerViewEmbedded { 
-background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png);
-background-size: cover;
-}
-
-.freebirdFormviewerViewFormCard { 
-background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png);
-background-size: cover;
-}
-
-.exportFormCard { 
+.freebirdFormviewerViewFormCard .exportFormCard { 
 background-image: url(https://titusstudios.net/data/static/images/grad-bkg-new.png);
 background-size: cover;
 }
