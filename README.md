@@ -10,6 +10,7 @@ Well that's what my online friends like to call me. I am the owner of the Titus 
  * BrightStar Control System **FINISHED**
  * Begun modeling again.
 
+⚠️ Warning: The content on this page is under development. Data may be inaccurate or could change at any time.
 
 # What I Do
 * Photographer
