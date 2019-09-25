@@ -37,12 +37,3 @@ Titus Studios is planning to buy a new Studio space between Late 2020 ~ 2021, th
 * Editing Den
 
 This will allow us to expand what content we can produce and have bigger area for larger projects
-
-
-<div class="fullcontainer">
- <br>
-  <br>
-    <img src="https://i.imgur.com/CGO5WeV.jpg" width="100%">
-  <br>
-  <br>
-</div> 
