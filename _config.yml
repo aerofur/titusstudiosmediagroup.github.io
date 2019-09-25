@@ -7,7 +7,6 @@ description: Titus Studios Official Website. Endeavour on the adventures of Titu
 
 gems: 
       - jekyll-sitemap
-      - jekyll-seo-tag
       
 defaults:
   -
@@ -16,8 +15,5 @@ defaults:
       path:            "data/**/"
     values:
       sitemap:         false
-      
-seo:
-      name: Titus Studios
-      type: Organization
+
       
