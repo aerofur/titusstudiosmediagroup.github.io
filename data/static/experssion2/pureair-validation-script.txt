@@ -1,4 +1,4 @@
 version:1.0.0
 versioncode:Beta
-mastername:Titus's PureAir Engine Processor [NAME TEST VIA HTTPS]
+mastername:Titus's PureAir Engine Processor
 vaild:1
