@@ -1,0 +1,50 @@
+---
+permalink: /unavailable-01-10-2019.html
+---
+
+<!DOCTYPE html>
+<html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+<title>503 | Titus Studios</title>
+<base href="https://titusstudios.net/">
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff"> 
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+{% seo %}	
+<style>
+body {
+	background-image: url(../assets/images/404-background.png);
+        background-repeat:no-repeat;
+} 
+</style>
+</head>
+	
+<body>
+  
+<div class="container">
+<section id="main_content">  
+
+<h1 style="text-align:center; font-size:18vw; color:#fff; text-shadow: 0 0px 0px rgba(0, 0, 0, 0); text-decoration: none;"> 501</h1>
+
+<h1 style="text-align:center; font-size:2.3vw; color:#fff; text-shadow: 0 0px 0px rgba(0, 0, 0, 0); text-decoration: none;"> Service Unavailable </h1>
+
+<h1 style="text-align:center; font-size:1.3w; color:#fff; text-shadow: 0 0px 0px rgba(0, 0, 0, 0); text-decoration: none;"> Due to recent severe weather, there is no power at our host server. We are working our best to get the power back on, and clean up the hail damage to the building. We are trying to get back online as fast as possible, stay tuned. </h1>
+
+
+</section>
+</div>
+  
+</body>
+</html>
+
