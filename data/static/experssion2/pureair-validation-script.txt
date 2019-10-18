@@ -1,4 +1,4 @@
-version:1.0.1
-versioncode:Beta
+version:1.0.2
+versioncode:Release
 mastername:Titus's PureAir Engine Processor
 vaild:1
