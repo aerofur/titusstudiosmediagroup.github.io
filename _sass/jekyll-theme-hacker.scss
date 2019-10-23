@@ -112,7 +112,6 @@ header {
   float: left;
   display: block;
   color: #000;
-  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -154,8 +153,9 @@ header {
    display: none;
    }
   .topnav a.icon {
-    float: right;
-    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
   }
 }
 
