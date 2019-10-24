@@ -216,6 +216,7 @@ header h2 {
 mySlides {
   /*display: none;*/
   transition: opacity .5s ease-in;
+  background: #fff;
 }
 
 mySlides + mySlides { opacity: 0; }
