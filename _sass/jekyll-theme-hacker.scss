@@ -209,13 +209,12 @@ header h2 {
 .slideshow-container {
   position: relative;
   margin: auto;	
-  padding: 0 0 26vw 0;
+  padding: 0 0 3vw 0;
 }
 
 /* Hide the images by default */
 mySlides {
   /*display: none;*/
-  position: absolute;
   transition: opacity .5s ease-in;
 }
 
