@@ -43,6 +43,8 @@ body {
 .headercontainer {
   width: 100%;
   margin: 0 auto;
+  padding: 1.3vw 1.3vw 1.3vw;
+  background: #fff;
 }
 
 .htext {
@@ -183,11 +185,9 @@ home-h1 {
 */
 
 header {
-  background: rgba(255, 255, 255, 255);
+  background: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);
   width: 100%;
-  //border-bottom: 1px dashed $conifer; //header;
-  padding: 1.3vw 1.3vw 1.3vw;
-  margin: 0 0 0px 0;
+  padding: 0 0 0.6vw 0;
 }
 
 .site-footer {
