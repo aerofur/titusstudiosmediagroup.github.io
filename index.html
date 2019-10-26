@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <base href="https://titusstudios.net/">
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
@@ -14,23 +16,10 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=06e7c0d63fb0ccb264c660e577567db6e670b012">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="/data/static/js/jquery/3.4.1/jquery.min.js"></script>
     <meta name="google-site-verification" content="zyKVZBJaMLd2zAtclQ0NYa-sG0Kp_oCnpQk0iYMKvO8" />
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Home | Titus Studios</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Home" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Titus Studios Official Website. Endeavour on the adventures of Titus and the company Titus Studios Media, a New Zealand Media Production business dedicated to high quality web media since 2013." />
-<meta property="og:description" content="Titus Studios Official Website. Endeavour on the adventures of Titus and the company Titus Studios Media, a New Zealand Media Production business dedicated to high quality web media since 2013." />
-<link rel="canonical" href="https://titusstudios.net//" />
-<meta property="og:url" content="https://titusstudios.net//" />
-<meta property="og:site_name" content="Titus Studios" />
-<script type="application/ld+json">
-{"@type":"WebSite","url":"https://titusstudios.net//","name":"Titus Studios","headline":"Home","description":"Titus Studios Official Website. Endeavour on the adventures of Titus and the company Titus Studios Media, a New Zealand Media Production business dedicated to high quality web media since 2013.","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-  
+{% seo %}  
 <link rel="image_src" href="/assets/images/og-image.png" type="image/png" />
 <meta property="og:image" content="/assets/images/og-image.png" />
 <meta property="og:image:type" content="image/png" />
