@@ -98,15 +98,25 @@ li {
 }
 
 .home-image-container1 {
-padding: 2vw 0 2vw 0;	
+    padding: 2vw 0 2vw 0;
+    margin: 3vw 0 0 0;
+    background: url(https://titusstudios.net/assets/images/home-image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .home-image-container2 {
-padding: 2vw 0 2vw 0;	
+    padding: 2vw 0 2vw 0;	
+    background: url(https://titusstudios.net/assets/images/home-image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .home-image-container3 {
-padding: 2vw 0 2vw 0;	
+    padding: 2vw 0 2vw 0;	
+    background: url(https://titusstudios.net/assets/images/home-image3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 home-h1 {
