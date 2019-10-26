@@ -74,18 +74,31 @@ li {
 }
 
 .home-container1 {
-  display: block;
-  max-width: 500px;	
+    display: block;
+    max-width: 500px;
+    padding: 0.4vw 1vw 1vw 1vw;
+    margin: 0 0 0 14vw;
+    background: #2f3136;
 }
 
 .home-container2 {
-  display: block;
-  max-width: 500px;	
+    display: block;
+    max-width: 500px;
+    padding: 0.4vw 1vw 1vw 1vw;
+    margin: 2vw 0 2vw 64vw;
+    background: #2f3136;
 }
 
 .home-container3 {
-  display: block;
-  max-width: 500px;	
+    display: block;
+    max-width: 500px;
+    padding: 0.4vw 1vw 1vw 1vw;
+    margin: 2vw 14vw 2vw;
+    background: #2f3136;
+}
+
+.home-image-container {
+padding: 2vw 0 2vw 0;	
 }
 
 home-h1 {
