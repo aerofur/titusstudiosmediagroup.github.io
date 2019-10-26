@@ -73,14 +73,20 @@ li {
   margin: 0 auto;
 }
 
-hictext {
-  font-size:18px;
+home-h1 {
+  font-size: 100px;
+  /*font-size:1.5vw;*/
+  margin: 0 14vw 0;
+  color: $header;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
 }
 
 .blinking-cursor {
   font-weight: 100;
-  font-size: 30px;
-  color: #2E3D48;
+  font-size: 100px;
+  color: #b5e853;
   -webkit-animation: 1s blink step-end infinite;
   -moz-animation: 1s blink step-end infinite;
   -ms-animation: 1s blink step-end infinite;
@@ -93,7 +99,7 @@ hictext {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #b5e853;
   }
 }
 
@@ -102,7 +108,7 @@ hictext {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #b5e853;
   }
 }
 
@@ -111,7 +117,7 @@ hictext {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #b5e853;
   }
 }
 
@@ -120,7 +126,7 @@ hictext {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #b5e853;
   }
 }
 
@@ -129,7 +135,7 @@ hictext {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #b5e853;
   }
 }
 
@@ -387,7 +393,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main_content h2 {
-  font-size: 24px;
+  font-size: 30px;
   /*font-size:1.4vw;*/
   margin: 0 14vw 0;
   color: $header;
