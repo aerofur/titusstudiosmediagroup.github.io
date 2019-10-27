@@ -1,11 +1,11 @@
 
 # Media
 
-Welcome to the Media Page. On this page you will find links to any Publications, Our Photo Gallery, Etc.
-
-## Photo Gallery
- * [https://titusstudiosmediagroup.github.io/content/pages/gallery](https://titusstudiosmediagroup.github.io/content/pages/gallery)
+Welcome to the Media Page. On this page you will find links to any Publications.
  
+## PureAir Engine (ONGOING PROJECT)
+* [Source Code & Documentation](https://github.com/titus-studios-media/PureAir)
+
 ## BrightStar™ Engine Management & Control System
  * [Documentation](https://github.com/TitusStudiosMediaGroup/brightstar/blob/master/README.md)
  
@@ -18,4 +18,4 @@ Welcome to the Media Page. On this page you will find links to any Publications,
 ## Standardizing AAR MU Systems 
  * [Documentation](https://github.com/titus-studios-media/Standardizing-AAR-MU-Systems-in-Garrys-Mod/wiki)
  
-## Find other Projects at: https://github.com/titus-studios-media
+## Find other Projects at: [https://github.com/titus-studios-media](https://github.com/titus-studios-media)
