@@ -1,148 +1,23 @@
-
 # Photo Gallery
-This Photo Gallery has photos that I have taken over the course of my life. Usually rail related but some nature shots from trips I go on. Really wish I take more photos of where I go.
-
-![html_img](https://i.imgur.com/4rsnERw.jpg)
-
-![html_img](https://i.imgur.com/7OczGz4.jpg)
-
-![html_img](https://i.imgur.com/N0vVsVb.jpg)
-
-![html_img](https://i.imgur.com/iNxRMIP.jpg)
-
-![html_img](https://i.imgur.com/r3xok0k.jpg)
-
-![html_img](https://i.imgur.com/HHSBqmg.jpg)
-
-![html_img](https://i.imgur.com/Wcnmg8N.jpg)
-
-![html_img](https://i.imgur.com/pLDJozR.jpg)
-
-![html_img](https://i.imgur.com/Akb2XSM.jpg)
-
-![html_img](https://i.imgur.com/WyLFdvL.jpg)
-
-![html_img](https://i.imgur.com/0fJM7YZ.jpg)
-
-![html_img](https://i.imgur.com/hqI2kv5.jpg)
-
-![html_img](https://i.imgur.com/WjMkwym.jpg)
-
-![html_img](https://i.imgur.com/Ut8Yrku.jpg)
-
-![html_img](https://i.imgur.com/XbyuX18.jpg)
-
-![html_img](https://i.imgur.com/bsZF4zB.jpg)
-
-![html_img](https://i.imgur.com/xAESNFw.jpg)
-
-![html_img](https://i.imgur.com/2lwEcYf.jpg)
-
-![html_img](https://i.imgur.com/WzkcFdt.jpg)
-
-![html_img](https://i.imgur.com/OazV67q.jpg)
-
-![html_img](https://i.imgur.com/34MxYqz.jpg)
-
-![html_img](https://i.imgur.com/sKTW19U.jpg)
-
-![html_img](https://i.imgur.com/hJwxGBi.jpg)
-
-![html_img](https://i.imgur.com/bRlwYy1.jpg)
-
-![html_img](https://i.imgur.com/XgayS61.jpg)
-
-![html_img](https://i.imgur.com/C8i08DF.jpg)
-
-![html_img](https://i.imgur.com/NmHCMXC.jpg)
-
-![html_img](https://i.imgur.com/c4wQyZn.jpg)
-
-![html_img](https://i.imgur.com/bz7Mbyb.jpg)
-
-![html_img](https://i.imgur.com/kextIj2.jpg)
-
-![html_img](https://i.imgur.com/wfFSA6b.jpg)
-
-![html_img](https://i.imgur.com/e4Wiycq.jpg)
-
-![html_img](https://i.imgur.com/a5CRXuj.jpg)
-
-![html_img](https://i.imgur.com/bj0afld.jpg)
-
-![html_img](https://i.imgur.com/Ycl1AGa.jpg)
-
-![html_img](https://i.imgur.com/NUYF4qF.jpg)
-
-![html_img](https://i.imgur.com/oqou7jO.jpg)
-
-![html_img](https://i.imgur.com/DlzOIeJ.jpg)
-
-![html_img](https://i.imgur.com/ty2tXMq.jpg)
-
-![html_img](https://i.imgur.com/MwrMRU5.jpg)
-
-![html_img](https://i.imgur.com/ibgpfAd.jpg)
-
-![html_img](https://i.imgur.com/gtKTcVQ.jpg)
-
-![html_img](https://i.imgur.com/0Ab4EGV.jpg)
-
-![html_img](https://i.imgur.com/Yfiz4IM.jpg)
-
-![html_img](https://i.imgur.com/xqrJx0p.jpg)
-
-![html_img](https://i.imgur.com/SevoYdi.jpg)
-
-![html_img](https://i.imgur.com/5ox3J6p.jpg)
-
-![html_img](https://i.imgur.com/vLSQK7b.jpg)
-
-![html_img](https://i.imgur.com/zO5koqH.jpg)
-
-![html_img](https://i.imgur.com/6YYjFB0.jpg)
-
-![html_img](https://i.imgur.com/DxXi19u.jpg)
-
-![html_img](https://i.imgur.com/EXnWPjG.jpg)
-
-![html_img](https://i.imgur.com/gpPYmO8.jpg)
-
-![html_img](https://i.imgur.com/MOdAkPJ.jpg)
-
-![html_img](https://i.imgur.com/2gXIOk3.jpg)
-
-![html_img](https://i.imgur.com/hapTb1m.jpg)
-
-![html_img](https://i.imgur.com/FesOkxS.jpg)
-
-![html_img](https://i.imgur.com/PYRjGbt.jpg)
-
-![html_img](https://i.imgur.com/hF6LCGZ.jpg)
-
-![html_img](https://i.imgur.com/zLKmr8j.jpg)
-
-![html_img](https://i.imgur.com/yP0Q7PI.jpg)
-
-![html_img](https://i.imgur.com/7AET57z.jpg)
-
-![html_img](https://i.imgur.com/MxHfI9w.jpg)
-
-![html_img](https://i.imgur.com/OOrzuGZ.jpg)
-
-![html_img](https://i.imgur.com/g7S0DEM.jpg)
-
-![html_img](https://i.imgur.com/g8rezO0.jpg)
-
-![html_img](https://i.imgur.com/NR4N88N.jpg)
-
-![html_img](https://i.imgur.com/Ha7feuH.jpg)
-
-![html_img](https://i.imgur.com/CWPqWY7.jpg)
-
-![html_img](https://i.imgur.com/pO5rg8K.jpg)
-
-![html_img](https://i.imgur.com/aniu4qc.jpg)
-
-
-
+Photos I have taken in recent times. Some better than others, more or less, a small look into my life.
+<br>
+
+![Paekakariki, NZ](https://i.imgur.com/OHVIdcj.jpg)
+![Napier, NZ](https://i.imgur.com/Hx86Doy.jpg)
+![Lumber Locomotive](https://i.imgur.com/eie7F5X.jpg)
+![KiwiRail DFB 7008](https://i.imgur.com/H0RtZuF.jpg)
+![KiwiRail DFB 7241](https://i.imgur.com/w2cU1tZ.jpg)
+![Hot Springs Bushwalk](https://i.imgur.com/Y6BpWtd.jpg)
+![Hot Springs Bushwalk](https://i.imgur.com/HSHozYp.jpg)
+![Lighthouse in Wairoa](https://i.imgur.com/RikhM2X.jpg)
+![KiwiRail Napier Yard Depot](https://i.imgur.com/5ZiqbZt.jpg)
+![Mohaka Viaduct Railway Bridge](https://i.imgur.com/M1OLzVk.jpg)
+![Mohaka Viaduct Railway Bridge](https://i.imgur.com/taCGcEq.jpg)
+![Wellington Railway Station](https://i.imgur.com/rYVVgW9.jpg)
+![Passenger Train in just outside of Wellington, NZ](https://i.imgur.com/I6TYQV2.jpg)
+![Mountains with snow in NZ, going to Wellington Trip 2019](https://i.imgur.com/a8L9xhb.jpg)
+![Wellington City](https://i.imgur.com/9Meabw8.jpg)
+![Wellington Cable Car](https://i.imgur.com/lVJiUSB.jpg)
+![Wellington Tepapa](https://i.imgur.com/YKf7K2N.jpg)
+![Wellington Tepapa](https://i.imgur.com/FYEFqWl.jpg)
+![Wellington Tepapa](https://i.imgur.com/RYKzbDo.jpg)
