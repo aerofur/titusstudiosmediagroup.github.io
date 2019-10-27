@@ -23,4 +23,4 @@ Welcome to the Media Page. On this page you will find links to any Publications.
  * [Standard Locations - Last Revised: 30-07-2019](https://github.com/titus-studios-media/Standardizing-AAR-MU-Systems-in-Garrys-Mod/wiki/Standard-Locations)
  
  
-# Find other Projects at: [https://github.com/titus-studios-media](https://github.com/titus-studios-media)
+## Find other Projects at: [https://github.com/titus-studios-media](https://github.com/titus-studios-media)
