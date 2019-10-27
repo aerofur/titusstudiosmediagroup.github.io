@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-These terms and conditions outline the rules and regulations for the use of Titus Studios Media's Website, located at https://titusstudios.net/ or https://www,titusstudios.net/.
+These terms and conditions outline the rules and regulations for the use of Titus Studios Media's Website, located at https://titusstudios.net/ or https://www.titusstudios.net/.
 
 By accessing this website we assume you accept these terms and conditions. Do not continue to use Titus Studios if you do not agree to take all of the terms and conditions stated on this page.
 
