@@ -121,11 +121,14 @@ li {
 home-h1 {
   font-size: 100px;
   /*font-size:1.5vw;*/
-  margin: 0 14vw 0;
   color: $header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
+}
+
+.hometext-container {
+  margin: 0 14vw 0 14vw;	
 }
 
 .blinking-cursor {
