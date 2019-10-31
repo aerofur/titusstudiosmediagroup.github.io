@@ -131,8 +131,18 @@ li {
     background: #2f3136;	
 }
 
-.text-block-spacer {
-    padding: 40px 0 40px 0;		
+.text-block-spacer-top {
+    padding: 0px 0 40px 0;		
+}
+
+
+.text-block-spacer-bottom {
+    padding: 40px 0 0px 0;		
+}
+
+.timeline-block {
+    padding: 40px 0 40px 0;	
+    background: linear-gradient(#2AFF90, #2AFF90) no-repeat center/4px 100%
 }
 
 home-h1 {
