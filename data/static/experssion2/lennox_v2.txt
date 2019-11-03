@@ -1,0 +1,100 @@
+@name dragonscript/settings/Lennox_V2
+@persist Name:string Sex [ColorBody ColorWings]:vector Material:string #Metadata
+@persist CosmeticTable:table CurrentCosmetic SubMCosmeticTable:table BodyGCosmeticTable:table # Cosmetics function
+@persist Baby Scale #Scaling stuff
+function void addCosmetic(Bone:string,Model:string,Scale:vector,Pos:vector,Ang:angle,Mat:string,Skin:number,Color:vector,Alpha:number){ CosmeticTable:pushArray(array(Bone,Model,Scale,Pos,Ang,Mat,Skin,Color,Alpha)) 
+    CurrentCosmetic = CosmeticTable:count(), SubMCosmeticTable[CurrentCosmetic,array] = array(), BodyGCosmeticTable[CurrentCosmetic,array] = array() }
+function void cosmeticSubMaterial(Index:number,Material:string){ local Array = SubMCosmeticTable[CurrentCosmetic,array], Array:pushString(Index:toString()+":"+Material), SubMCosmeticTable[CurrentCosmetic,array] = Array }
+function void cosmeticBodyGroup(Group:number, Sel:number){ local Array = BodyGCosmeticTable[CurrentCosmetic,array], Array:pushVector2(vec2(Group,Sel)), BodyGCosmeticTable[CurrentCosmetic,array] = Array }
+
+SettingsVersion = "2.0.0" #Don't touch this
+
+Name = "Lennox" #What is the name of your dragon?
+Sex = 0 #0 for Male, 1 for Female
+ColorBody = vec(44,49,62) #The color of the dragon's body
+ColorWings = vec(80,147,131) #The color of the dragon's wings
+Material = "" #The material used for the dragon's skin
+
+Scale = 1 #Scale factor: 1 for Adult.
+Baby = 0 #Forces scale to 0.5
+
+
+addCosmetic("Body","models/infra/props_clutter/fire_extinguisher.mdl",vec(1),vec(-4,-16,-6),ang(90,0,0),"",0,vec(255),255)
+
+addCosmetic("Body","models/infra/props_clutter/chainsaw.mdl",vec(1),vec(-4,17,-3),ang(90,0,90),"",0,vec(255),255)
+
+addCosmetic("Body","models/infra/weapons/w_sledgehammer.mdl",vec(0.7),vec(0,-11,-10),ang(60,90,90),"",0,vec(255),255)
+
+addCosmetic("Body","models/gsgtrainprops/parts/footboards/pilot_emd_late.mdl",vec(0.3),vec(2,12,-14),ang(0,90,0),"",0,vec(255),255)
+
+addCosmetic("Body","models/gsgtrainprops/parts/auxlights/light_marker_lamp.mdl",vec(0.7),vec(15,17,-18),ang(0,30,0),"",0,vec(255),255)
+
+addCosmetic("Body","models/gsgtrainprops/parts/headlights/headlight_twinbeam_plate.mdl",vec(0.4),vec(12.9,12.3,-10),ang(85,90,0),"",0,vec(255),255)
+
+addCosmetic("Body","models/weapons/w_models/w_wrench.mdl",vec(0.4),vec(8,12.3,-12),ang(0,120,40),"",0,vec(255),255)
+
+addCosmetic("Body","models/props/cs_office/microwave.mdl",vec(0.2),vec(2,12.3,-14.5),ang(0,0,0),"",0,vec(255),255)
+
+
+#[
+Adding Cosmetics
+
+To add cosmetics, use this function:
+addCosmetic(Bone String, Model String, Scale Vector, Position Vector, Angle Ang, Material String, Skin Number, Color Vector, Alpha Number)
+
+As an example:
+addCosmetic("Head","models/player/items/engineer/veteran_hat.mdl",vec(1.4),vec(-3,0,1.3),ang(-7,0,0),"",0,vec(255),255)
+
+Modifying Cosmetics
+
+To change the bodygroup of a cosmetic, put the cosmeticBodygroup function underneath the cosmetic you wish to change.
+CosmeticBodyGroup(Group Number, Selection Number)
+
+As an example:
+addCosmetic("Head","models/player/items/engineer/veteran_hat.mdl",vec(1.4),vec(-3,0,1.3),ang(-7,0,0),"",0,vec(255),255)
+CosmeticBodyGroup(1,3)
+CosmeticBodyGroup(2,1)
+
+To change the submaterial of a cosmetic, put the cosmeticSubMaterial function underneath the cosmetic you wish to change.
+CosmeticSubMaterial(SubmaterialIndex Number, Material String)
+
+As an example:
+addCosmetic("Head","models/player/items/engineer/veteran_hat.mdl",vec(1.4),vec(-3,0,1.3),ang(-7,0,0),"",0,vec(255),255)
+cosmeticSubMaterial(1,"phoenix_storms/explo_barrel")
+cosmeticSubMaterial(2,"phoenix_storms/explo_barrel")
+
+Attachment Points
+
+Here is the table of possible attachment points:
+
+    Body
+    Neck
+    Head
+    LeftShoulder
+    LeftElbow
+    LeftFrontFoot
+    RightShoulder
+    RightElbow
+    RightFrontFoot
+    LeftHip
+    LeftKnee
+    LeftRearFoot
+    RightHip
+    RightKnee
+    RightRearFoot
+    Tail  | Tail Bone
+    Tail1 | Tail Segment 1
+    Tail2 | Tail Segment 2
+    Tail3 | Tail Segment 3
+    Tail4 | Tail Segment 4
+    LeftWingJoint
+    LeftHand1
+    LeftHand2
+    LeftHand3
+    RightWingJoint
+    RightHand1
+    RightHand2
+    RightHand3
+    
+]#
+
