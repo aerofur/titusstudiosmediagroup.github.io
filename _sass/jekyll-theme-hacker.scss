@@ -154,15 +154,38 @@ li {
     /*background: linear-gradient(#2AFF90, #2AFF90) no-repeat center/4px 100%*/
 }
 
-.client-box-text {
-    margin: 0 0 0 0;
-    display: inline;
-    max-width: 300px;
-}
+
+/* Client Boxes */
 
 .client-spacer {
     padding: 40px 0 40px 0;
 }
+
+.client-container {
+    text-align: center;	
+}
+
+.client-image {
+    background-size: contain;
+    width: 220px;
+    height: 220px;
+    display: inline-block;
+    border: 20px solid #2f3236;
+    margin: -5px;	
+}
+
+.client-info-container {
+    background-color: #2f3136;
+    max-width: 350px;
+    display: inline-block;
+    border: 20px solid #2f3236;
+    margin: -5px;	
+}
+
+.client-text-container {
+    text-align: left;	
+}
+
 	
 home-h1 {
   font-size: 100px;
