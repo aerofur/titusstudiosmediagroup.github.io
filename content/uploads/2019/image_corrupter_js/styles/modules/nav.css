@@ -123,6 +123,29 @@
 	display: none !important;
 }
 
+
+/* AAAA */
+
+.nav-button save-view-button {
+	display: none !important;
+}
+
+.nav-button photo-button {
+	display: none !important;
+}
+
+.nav-button share-toggle-button {
+	display: none !important;
+}
+
+.nav-button info-button {
+	display: none !important;
+}
+
+.nav-button settings-button {
+	display: none !important;
+}
+
 .nav-button::after {
 	content: '';
 	display: block;
