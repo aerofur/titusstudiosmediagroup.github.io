@@ -100,6 +100,29 @@
 	background-image: url(../../images/icon/settings.svg);
 }
 
+
+/*AAAAAAAAAA GO AWAY AAAAA*/
+
+.save-view-button {
+	display: none !important;
+}
+
+.photo-button {
+	display: none !important;
+}
+
+.share-toggle-button {
+	display: none !important;
+}
+
+.info-button {
+	display: none !important;
+}
+
+.settings-button {
+	display: none !important;
+}
+
 .nav-button::after {
 	content: '';
 	display: block;
