@@ -166,12 +166,17 @@
 <link rel="stylesheet" href="https://www.titusstudios.net/data/static/js/chartjs/ajax/Chart.css">    
 <canvas id="myChart" width="400" height="400"></canvas>
 <script>
-// For a pie chart
-var myChart = new Chart(ctx, {
-    type: 'pie',
-    data: data,
-    options: options
-});
+    var ctx = document.getElementById('myChart');
+    var myChart = new Chart(ctx, {
+        "type": "doughnut",
+        "data": {
+                "labels": ["HTML", "CSS", "JavaScript", "jQuery", "Ruby", "Rails", "Request", "Async"],
+                "datasets": [{ "label": "Languages & Technologies",
+                "data": [1274, 1193, 652, 255, 205, 205, 85, 84, 78],
+                "backgroundColor": ["rgb(233, 78, 19)", "rgb(86, 61, 124)", "rgb(255, 212, 0)", "rgb(6, 74, 118)", "rgb(0, 176, 170)", "rgb(156, 39, 68)", "rgb(144, 234, 196)", "rgb(119, 229, 229)", "rgb(117, 214, 234)"]
+            }]
+        }
+    });
 </script>
 </div>
         </div>
