@@ -6,7 +6,7 @@
             left: 0;
         }
     
-    .gradient-border {
+.gradient-border {
   --borderWidth: 3px;
   background: #1D1F20;
   position: relative;
@@ -41,11 +41,10 @@
     </style>
 </head>
 <body>
-    
+    <div>
     <div style="
-    padding: 100px;
+    padding: 250px;
 ">
-    <div class="gradient-border">
  <p style="
     font-family: &quot;Roboto&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
     font-size: 120px;
@@ -54,28 +53,69 @@
     -webkit-font-smoothing: antialiased;
     font-weight: 500;
     text-align: center;
-    margin: 0;
+    margin: auto;
     color: #fff;
+    border: solid 0.08vw #00ff72;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 15px rgba(181,232,83,0.15), 0 0 15px rgba(181,232,83,0.15);
+    max-width: min-content;
+    padding: 0 21px 0 21px;
     "><strong>OpenControl</strong></p>
-        </div>
     
             <p style="
     font-family: &quot;Roboto&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
-    font-size: 53px;
+    font-size: 52px;
     line-height: 1.3;
     letter-spacing: .75px;
     -webkit-font-smoothing: antialiased;
     font-weight: 300;
     text-align: center;
     margin: 0;
-    background: linear-gradient(45deg, #52FFE7, #52FFE7, #52FFE7, #d163ff, #d163ff,#d163ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #00ff72;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.2), 0 0 15px rgba(181,232,83,0.15), 0 0 15px rgba(181,232,83,0.15);
+    /* background: linear-gradient(45deg, #52FFE7, #52FFE7, #52FFE7, #d163ff, #d163ff,#d163ff); */
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
+    padding: 15;
 ">Future is here.</p>
     
-    
-    
+    <div style="
+    padding: 45px;
+">
+
+<div style="
+    width: 170px;
+    height: 45px;
+    border-radius: 10px;
+    margin: auto;
+    color: #fff;
+    border: solid 0.08vw #00ff72;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 15px rgba(181,232,83,0.15), 0 0 15px rgba(181,232,83,0.15);
+">
+    <a href="https://github.com/TitusStudiosMediaGroup/OpenControl/archive/master.zip" style="text-decoration: none;">
+        <p style="
+    font-family: &quot;Roboto&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+    line-height: 1.3;
+    letter-spacing: .75px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 500;
+    text-align: center;
+    margin: 0;
+    font-size: 18px;
+    padding: 11px;
+    color: #00ff72;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 15px rgba(181,232,83,0.15), 0 0 15px rgba(181,232,83,0.15);
+">Download</p>
+    </a><div>
     </div>
+    
+    <div>
+    </div>
+    
+    <footer>
+    </footer>
+    
+    
+    </div></div><div></div></div></div>
     
     <canvas id="c" width="1920" height="937"></canvas><script>
         var w = c.width = window.innerWidth,
@@ -87,7 +127,7 @@
 			range: 180,
 			baseConnections: 3,
 			addedConnections: 5,
-			baseSize: 5,
+			baseSize: 15,
 			minSize: 1,
 			dataToConnectionSize: .4,
 			sizeMultiplier: .7,
@@ -393,44 +433,8 @@
 
             ++tick;
 
-            var rotX = tick * opts.rotVelX,
-                    rotY = tick * opts.rotVelY;
+            var rotX = tick * opt…</script>
 
-            cosX = Math.cos( rotX );
-            sinX = Math.sin( rotX );
-            cosY = Math.cos( rotY );
-            sinY = Math.sin( rotY );
-
-            if( data.length < connections.length * opts.dataToConnections ){
-                var datum = new Data( connections[ 0 ] );
-                data.push( datum );
-                all.push( datum );
-            }
-
-            ctx.globalCompositeOperation = 'lighter';
-            ctx.beginPath();
-            ctx.lineWidth = opts.wireframeWidth;
-            ctx.strokeStyle = opts.wireframeColor;
-            all.map( function( item ){ item.step(); } );
-            ctx.stroke();
-            ctx.globalCompositeOperation = 'source-over';
-            all.sort( function( a, b ){ return b.screen.z - a.screen.z } );
-            all.map( function( item ){ item.draw(); } );
-
-            /*ctx.beginPath();
-            ctx.strokeStyle = 'red';
-            ctx.arc( opts.vanishPoint.x, opts.vanishPoint.y, opts.range * opts.focalLength / opts.depth, 0, Tau );
-            ctx.stroke();*/
-        }
-
-        window.addEventListener( 'resize', function(){
-
-            opts.vanishPoint.x = ( w = c.width = window.innerWidth ) / 2;
-            opts.vanishPoint.y = ( h = c.height = window.innerHeight ) / 2;
-            ctx.fillRect( 0, 0, w, h );
-        });
-        window.addEventListener( 'click', init );
-    </script>
 
 
 </body></html>
