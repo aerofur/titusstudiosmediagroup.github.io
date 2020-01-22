@@ -118,16 +118,18 @@
     </div></div><div></div></div></div>
     
     <canvas id="c" width="1920" height="937"></canvas><script>
+
+	<script>
         var w = c.width = window.innerWidth,
 		h = c.height = window.innerHeight,
 		ctx = c.getContext( '2d' ),
 		
 		opts = {
 			
-			range: 280,
+			range: 180,
 			baseConnections: 3,
 			addedConnections: 5,
-			baseSize: 5,
+			baseSize: 15,
 			minSize: 1,
 			dataToConnectionSize: .4,
 			sizeMultiplier: .7,
@@ -434,7 +436,7 @@
             ++tick;
 
             var rotX = tick * opt…</script>
-
+	</script>
 
 
 </body></html>
