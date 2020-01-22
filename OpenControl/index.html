@@ -5,15 +5,79 @@
             top: 0;
             left: 0;
         }
+    
+    .gradient-border {
+  --borderWidth: 3px;
+  background: #1D1F20;
+  position: relative;
+  border-radius: var(--borderWidth);
+}
+.gradient-border:after {
+  content: '';
+  position: absolute;
+  top: calc(-1 * var(--borderWidth));
+  left: calc(-1 * var(--borderWidth));
+  height: calc(100% + var(--borderWidth) * 2);
+  width: calc(100% + var(--borderWidth) * 2);
+  background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+  border-radius: calc(2 * var(--borderWidth));
+  z-index: -1;
+  animation: animatedgradient 3s ease alternate infinite;
+  background-size: 300% 300%;
+}
+
+
+@keyframes animatedgradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
     </style>
 </head>
 <body>
     
-    <div>
-        <canvas id="c"></canvas>
+    <div style="
+    padding: 100px;
+">
+    <div class="gradient-border">
+ <p style="
+    font-family: &quot;Roboto&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+    font-size: 120px;
+    line-height: 1.3;
+    letter-spacing: .75px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 500;
+    text-align: center;
+    margin: 0;
+    color: #fff;
+    "><strong>OpenControl</strong></p>
+        </div>
+    
+            <p style="
+    font-family: &quot;Roboto&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+    font-size: 53px;
+    line-height: 1.3;
+    letter-spacing: .75px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+    background: linear-gradient(45deg, #52FFE7, #52FFE7, #52FFE7, #d163ff, #d163ff,#d163ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+">Future is here.</p>
+    
+    
+    
     </div>
     
-    <script>
+    <canvas id="c" width="1920" height="937"></canvas><script>
         var w = c.width = window.innerWidth,
 		h = c.height = window.innerHeight,
 		ctx = c.getContext( '2d' ),
@@ -367,5 +431,6 @@
         });
         window.addEventListener( 'click', init );
     </script>
+
 
 </body></html>
