@@ -11,9 +11,17 @@
 <body>
     <div>
     <div style="
-    padding: 250px;
+    padding: 250px 0 0 0;
 ">
- <p style="
+ <div style="
+    border: solid 0.08vw #00ff72;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 15px rgba(181,232,83,0.15), 0 0 15px rgba(181,232,83,0.15);
+    max-width: max-content;
+    height: 199;
+    width: 988;
+    margin: auto;
+    ">
+<p style="
     font-family: &quot;Roboto&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
     font-size: 8vw;
     line-height: 1.3;
@@ -23,11 +31,8 @@
     text-align: center;
     margin: auto;
     color: #fff;
-    border: solid 0.08vw #00ff72;
-    box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 15px rgba(181,232,83,0.15), 0 0 15px rgba(181,232,83,0.15);
-    max-width: min-content;
     padding: 0 21px 0 21px;
-    "><strong>OpenControl</strong></p>
+          "><strong>OpenControl</strong></p></div>
     
             <p style="
     font-family: &quot;Roboto&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
@@ -85,7 +90,10 @@
     
     </div></div><div></div></div></div>
     
-    <canvas id="c" width="1920" height="937"></canvas>
+    <canvas id="c" style="
+    width: 100%;
+    height: 100%;
+"></canvas>
 	
 	<script>
 var w = c.width = window.innerWidth,
@@ -441,6 +449,7 @@ window.addEventListener( 'resize', function(){
 });
 window.addEventListener( 'click', init );
 	</script>
+
 
 
 </body></html>
