@@ -8,7 +8,6 @@ $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 
-
 body {
     margin: 0;
 }
@@ -252,14 +251,14 @@ p {
 .namepram {
     --word-height: 28px;
     display: grid;
-    height: 100%;
 }
 
 .aboutmelanding .namepram p > span {
     display: inline-block;
     vertical-align: top;
     height: var(--word-height);
-    color: #0be;
+    color: #00ff72;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 15px rgba(181,232,83,0.15), 0 0 15px rgba(181,232,83,0.15);   
     overflow: hidden;
     > span{
         display: block;
