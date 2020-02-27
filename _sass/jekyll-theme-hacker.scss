@@ -251,12 +251,22 @@ p {
     padding: 50px;
 }
 
+.maintextcontainer {
+    width: 720px;
+    margin: auto;
+}
+
 .mainnametext {
     font-size: 120px;
 }
 
+.subnametext {
+    padding: 0 0 0 275px;
+    font-size: 35px;
+}
+
 .namepram {
-    --word-height: 28px;
+    --word-height: 45px;
     display: grid;
 }
 
@@ -272,6 +282,10 @@ p {
         line-height: var(--word-height);
         animation: textScroll 5s cubic-bezier(.5, 0, .5, 1) infinite;
     }
+}
+
+.scrollingtextspan {
+  line-height: 1;  
 }
 
 @keyframes textScroll {
