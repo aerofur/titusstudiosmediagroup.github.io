@@ -252,8 +252,9 @@ p {
 }
 
 .maintextcontainer {
-    width: 720px;
+    width: fit-content;
     margin: auto;
+    color: #fff;
 }
 
 .mainnametext {
@@ -266,6 +267,8 @@ p {
 }
 
 .namepram {
+    margin: -25px 0 0 289px;
+    letter-spacing: 6;
     --word-height: 28px;
     display: grid;
 }
@@ -275,7 +278,7 @@ p {
     vertical-align: top;
     height: var(--word-height);
     color: #00ff72;
-    text-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 0 15px rgba(181,232,83,0.15), 0 0 15px rgba(181,232,83,0.15);   
+    text-shadow: 0 1px 1px rgba(0,0,0,0.15), 0 0 5px rgba(181,232,83,0.15), 0 0 5px rgba(181,232,83,0.15);
     overflow: hidden;
     > span{
         display: block;
