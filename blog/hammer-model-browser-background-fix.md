@@ -48,4 +48,4 @@ Ex, `Panel.BgColor					"Blank"` to, `Panel.BgColor					"DullWhite"`.
 
 Save and Exit the file, and restart Hammer.
 
->NOTE: This config __might__ not save if you verify game files.
+>**NOTE:** This config __might__ not save if you verify game files.
