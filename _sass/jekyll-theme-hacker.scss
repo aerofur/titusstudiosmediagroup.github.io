@@ -42,6 +42,16 @@ a {
     margin: 0;
 }
 
+.logo {
+    height: 35px;
+    width: 35px;
+    background-image: url(https://www.titusstudios.net/assets/images/newlogo2020.png);
+    background-size: contain;
+    float: left;
+    margin: 7px 0 0 7px;
+    opacity: 0.5;    
+}
+
 .mainheader {
     font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 120px;
