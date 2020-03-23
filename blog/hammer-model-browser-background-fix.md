@@ -38,7 +38,6 @@ Scheme
 		"AchievementsDarkGrey"		"55 55 55 255"
 		"AchievementsInactiveFG"	"130 130 130 255"
 	}
-
 ```
 
 Under the `BaseSettings` confg, find `Panel.BgColor` (around line 124)
