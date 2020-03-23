@@ -3,10 +3,10 @@
 ## Scope
 To change the background of the Hammer Editor Model Browser, which in some cases is transparent by default.
 
-Before:
+**Before:**
 ![Hammer Model Browser Before Fix](https://i.imgur.com/SSbVD3J.jpg)
 
-After:
+**After:**
 ![Hammer Model Browser After Fix](https://i.imgur.com/RMvZl1I.jpg)
 
 
