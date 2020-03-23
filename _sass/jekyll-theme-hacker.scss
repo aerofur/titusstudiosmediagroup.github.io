@@ -377,6 +377,21 @@ footer {
     margin-inline-end: 0px;
 }
 
+.footersocial {
+    max-width: 1000px;
+    text-align: end;
+    margin: auto;
+}
+
+.footersocialicon {
+    color: #bbb
+    opacity: 0.5;
+}
+
+.footersocialicon:hover {
+    opacity: 1;
+}
+
 .container {
     margin: 0 35px 0 35px;
 }
