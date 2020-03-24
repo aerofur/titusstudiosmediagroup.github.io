@@ -116,6 +116,24 @@ a {
     margin: 0 20px 0 20px;
 }
 
+@media screen and (max-width: 700px) {
+    .github {
+        display: none;
+    }
+    
+    .projects {
+        display: none;
+    }
+    
+    .home {
+        width: 100px;
+    }
+    
+    .contact {
+        width: 100px;
+    }
+}
+
 .prjdropdown {
     background-color: #26272b;;
     width: 200px;
