@@ -1,4 +1,4 @@
-
+### Types of Fursuits | Titus Studios
 
 # Types of Fursuits - Pros and Cons
 
