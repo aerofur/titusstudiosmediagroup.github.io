@@ -2,9 +2,8 @@ theme: jekyll-theme-hacker
 google_analytics: UA-142625828-2
 
 url: "https://titusstudios.net/" # the hostname & protocol for your site
-title: Titus Studios
-description: Titus Studios Official Website. Endeavour on the adventures of Titus and the company Titus Studios Media, a New Zealand Media Production business dedicated to high quality web media since 2013.
-
+title: | Titus Studios
+description: Titus Studios Media Group Official Site: Think, Build, Host, Publish.
 gems: 
       - jekyll-sitemap
       
