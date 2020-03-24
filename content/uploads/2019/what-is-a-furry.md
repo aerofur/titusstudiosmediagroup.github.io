@@ -1,5 +1,3 @@
-### What is a Furry? | Titus Studios
-
 # What is a Furry?
 
 The Furry Community initially grew out of the Science Fiction and Fantasy fandoms.
