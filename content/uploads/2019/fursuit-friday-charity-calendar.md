@@ -1,4 +1,4 @@
-
+### #FursuitFriday Charity Calendar | Titus Studios
 # #FursuitFriday Charity Calendar
 
 The #FursuitFriday Charity Calendar is a Fursuit based charity calendar which is ran by the ever so awesome Artworktee Furry shirt Company! Every donation supports the life-saving work of Last Chance Corral, a rescue for abandoned and abused horses.  "Help a wonderful cause, and get an awesome furry calendar in return." - Artworktee
