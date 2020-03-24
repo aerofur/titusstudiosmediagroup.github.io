@@ -1,5 +1,4 @@
-
-
+### How to get involved in the Furry Fandom | Titus Studios
 
 # How to get involved in the Furry Fandom
 
