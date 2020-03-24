@@ -507,6 +507,13 @@ code {
     padding: .2em .4em;
     margin: 0;
     font-size: 85%;
+    border-radius: 3px;
+}
+
+.language-plaintext {
+    padding: .2em .4em;
+    margin: 0;
+    font-size: 85%;
     background-color: rgba(27,31,35,.05);
     border-radius: 3px;
 }
@@ -547,4 +554,20 @@ table th {
 
 table tr:nth-child(2n) {
     background-color: #f6f8fa;
+}
+
+.darkmodebody {
+    background-color: #212121; /*Body Background*/
+}
+
+.darkmodetext {
+    color: #fff; /*Text Color*/
+}
+
+.darkmodebodyblockquote {
+    background-color: rgba(255, 255, 255, 0.05); /*Blockquote*/
+}
+
+.darkmodebodyplaintextcode {
+    background-color: rgba(255, 255, 255, 0.05); /*Plaintext Code*/
 }
