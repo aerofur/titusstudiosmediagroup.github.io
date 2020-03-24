@@ -1,6 +1,6 @@
 # Contact Me & Social Links
 
-## Email: [titusstudiosmediagroup@gmail.com](titusstudiosmediagroup@gmail.com)
+## Email: titusstudiosmediagroup@gmail.com
 ## Telegram: [@TitusStudios](https://t.me/titusstudios)
 ## Twitter: [@TitusStudiosMG](https://twitter.com/TitusStudiosMG)
 ## Discord: Titus Studios™ Media Group#8833
