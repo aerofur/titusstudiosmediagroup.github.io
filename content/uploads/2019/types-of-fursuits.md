@@ -1,5 +1,3 @@
-### Types of Fursuits | Titus Studios
-
 # Types of Fursuits - Pros and Cons
 
 There are many different kinds of Fursuits out there, dependant on the owner's character design, mechanical or even electrical components, etc. Fursuits are a real work of art! Fursuits can range from a simple Tail and Ears, to a full fursuit (Similar to mascot suits).
