@@ -1,3 +1,4 @@
+### How to make a Fursona Badge | Titus Studios
 # How to make a Fursona Badge
 
 ## What is a Badge?
