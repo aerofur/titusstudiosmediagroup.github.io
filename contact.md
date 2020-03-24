@@ -1,4 +1,4 @@
-### Contact | Titus Studios
+### Contact
 # Contact Me & Social Links
 
 ## Email: titusstudiosmediagroup@gmail.com
