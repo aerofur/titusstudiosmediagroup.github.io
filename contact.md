@@ -1,8 +1,10 @@
 # Contact Me & Social Links
 
-## Email: titusstudiosmediagroup@gmail.com
+## Email: [titusstudiosmediagroup@gmail.com](titusstudiosmediagroup@gmail.com)
 ## Telegram: [@TitusStudios](https://t.me/titusstudios)
-## Twitter: https://twitter.com/TitusStudiosMG
+## Twitter: [@TitusStudiosMG](https://twitter.com/TitusStudiosMG)
 ## Discord: Titus Studios™ Media Group#8833
-## Steam: https://steamcommunity.com/id/TitusStudiosMediaGroup
-## FurAffinity: https://www.furaffinity.net/user/titusstudios/
+## Steam: [Titus Studios™ Media Group](https://steamcommunity.com/id/TitusStudiosMediaGroup)
+## FurAffinity: [titusstudios](https://www.furaffinity.net/user/titusstudios/)
+## Github: [TitusStudiosMediaGroup (usr)](https://github.com/TitusStudiosMediaGroup)
+## Github: [Titus Studios Media (org)](https://github.com/titus-studios-media)
