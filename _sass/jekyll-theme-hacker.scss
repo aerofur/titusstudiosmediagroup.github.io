@@ -10,6 +10,8 @@ $blockquote-border: $dove-grey !default;
 
 body {
     margin: 0;
+    padding-bottom: 255px;
+    position: relative;
     word-break: break-word;
 }
 
