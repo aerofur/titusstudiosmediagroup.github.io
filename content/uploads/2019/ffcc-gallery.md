@@ -1,6 +1,4 @@
-
-
-
+### #FursuitFriday Charity Calendar | Titus Studios
 # #FursuitFriday Charity Calendar - Extended Gallery
 
 Some extra photos that didn't make it onto the main article because of space. Enjoy!
