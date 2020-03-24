@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 google_analytics: UA-142625828-2
 
 url: "https://titusstudios.net/" # the hostname & protocol for your site
-title: | Titus Studios
+title: Titus Studios
 description: Titus Studios Media Group Official Site; Think, Build, Host, Publish.
 gems: 
       - jekyll-sitemap
