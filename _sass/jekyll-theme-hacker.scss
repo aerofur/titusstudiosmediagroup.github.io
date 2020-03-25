@@ -340,7 +340,14 @@ a {
 
 .mainnametext {
     font-size: 95px;
-    padding: 180px 0;
+    padding: 21.2vh 0;
+    text-align: center;
+}
+
+@media screen and (max-width: 630px) {
+    .mainnametext {
+        padding: 14.2vh 0;
+    }
 }
 
 .subnametext {
