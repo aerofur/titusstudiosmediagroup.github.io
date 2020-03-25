@@ -231,7 +231,7 @@ a {
 
 .opencontroladvert {
     display: block;
-    margin: 0 0 3vw 0;
+    padding: 0 0 3vw 0;
     height: 800px;
     background-color: #282741;
     word-break: normal;
@@ -318,8 +318,12 @@ a {
     letter-spacing: .75px;
     -webkit-font-smoothing: antialiased;
     font-weight: 500;
-    background-color: #26272b;
-    margin: auto;
+    margin: -10vw 0 0 0;
+}
+
+.opencontrolbottomfix {
+    height: 10vw;
+    background-color: #282741;    
 }
 
 .aboutmecontainer {
@@ -336,7 +340,7 @@ a {
 
 .mainnametext {
     font-size: 95px;
-    padding-top: 175px;
+    padding: 180px 0;
 }
 
 .subnametext {
