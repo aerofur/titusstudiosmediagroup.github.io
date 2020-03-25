@@ -4,7 +4,7 @@ www.titusstudios.net is my personal and business website. Hosted on GitHub, buil
 
 # Who are you?
 
-Hi, I’m Paxton. I commonly go by the alias “Titus” online, derived from my company name. I’m a geek. I have too many hobbies to count, eager to learn new things, and have a never ending connection with Technology and Programming.
+Hi, I’m Paxton. I commonly go by the alias “Titus”* online, derived from my company name. I’m a geek. I have too many hobbies to count, eager to learn new things, and have a never ending connection with Technology and Programming.
 
 
 
