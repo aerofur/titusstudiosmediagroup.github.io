@@ -11,3 +11,7 @@ Hi, I’m Paxton. I commonly go by the alias “Titus” online, derived from my
 # What do you do?
 
 I do a lot of things. Notably: Programming (Expression2, Lua, C#, etc), is a large part of my life, I do heaps of it in my free time, same goes for, Tinkering with Electronics (Microprocessors, Raspberry Pi, Arduino), Engineering, and have lots of interest in technology, computing, and servers. I do all sorts. I’m very hands on and dont mind to get dirty in the process. 
+
+# Interested in some of my work?
+
+Find almost all of my work on my GitHub(s), at: [https://github.com/TitusStudiosMediaGroup](https://github.com/TitusStudiosMediaGroup) & [https://github.com/titus-studios-media](https://github.com/titus-studios-media). Feel free to contact me to ask about my work, I’m sure I will get back to you.
