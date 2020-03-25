@@ -350,6 +350,12 @@ a {
     }
 }
 
+@media screen and (max-width: 347px) {
+    .mainnametext {
+        padding: 7.2vh 0;
+    }
+}
+
 .subnametext {
     display: none;
     padding: 0 0 0 275px;
