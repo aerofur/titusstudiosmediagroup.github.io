@@ -9,5 +9,3 @@
 ## FurAffinity: [titusstudios](https://www.furaffinity.net/user/titusstudios/)
 ## Github: [TitusStudiosMediaGroup (usr)](https://github.com/TitusStudiosMediaGroup)
 ## Github: [Titus Studios Media (org)](https://github.com/titus-studios-media)
-
-> **Telegram** is our preferred method of contact.
