@@ -158,7 +158,7 @@ void dispByte(int dispNum, byte character [])
 }
 ```
 
- * The function first gets the Display Number, which is "what display am I writing to?".
+ * The function first requires the Display Number which it is going to write to.
  * The function then requires the data array. It will write the first 8 bits, and then the next on the next row of the display, and so on.
  
 > **NOTE:** Make sure to include the `binary.h` library! - `#include <binary.h>`
