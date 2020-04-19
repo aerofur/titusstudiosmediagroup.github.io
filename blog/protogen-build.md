@@ -7,17 +7,65 @@
 * Electronics
   * Microcontroller
   * LED Matrices
-    * Matrice Sizes
+    * MAX7219
+    * Matrix Sizes
+  * Wiring
 * Code
-  * LedControl
+  * Libraries
+    * LedControl
+    * Binary
   * Data Arrays
   * Display Initialization
   * Display Byte Function
+  * Running Code
 * 3D Printing
 * Manual Work
 * Painting
 * Fur
 * Final Touches
+
+
+# Electronics
+The project revolves around an Arduino Nano, and the MAX7219 chip. 
+
+## Microcontroller
+
+I choose an Arduino Nano for its small size and portability, only needing a USB cable for power, I can run the whole setup on a USB battery bank, which in theory can run for a few hours with the displays on full brightness.
+
+
+## MAX7219
+
+The LED matrices that will be used in the visor are controlled using a MAX7219, which is a microchip that can drive 7-segment, bar-graph or an 8x8 LED matrix that interfaces using a 10MHz Serial Interface, meaning you only need 3 wires to control up to 8 8x8 LED matrices using the LEDControl Library for Arduinos. 
+
+
+## Matrix Sizes
+
+The Kaiborg Studios “Protogen Suit Kits”, which is what I am using for my head base, have an inner and outer visor. The inner visor is for the LED matrices to be mounted to, and the outer visor is a vacuum formed sheet of plastic that is tinted. The inner visor is made to house one; 8x32,8x16 and 8x8 LED matrices per side, a total of 2, 8x32, 8x16, and 8x8 LED matrices is required. You can find thousands of LED matrices online, for very cheap. 
+
+Most of these LED matrices come in either 8x8 or 8x32 sizes, and the larger ones can be cut to your own size, as they are 8x8 matrices chained together (*I am going to cut the PCB to my custom size*). Note that these LED matrices usually only come in Red, Green or Blue. Full RGB versions are available however they don’t use the MAX7219 chip, as far as I am aware.
+
+In my case I am going to buy 4 8x32 LED matrices, in the color blue, and use 2 for the Mouth, cut one in half for the Eyes, and one into quarters for the Nose, and I will have 2 remainder for backup in case something breaks along the road. 
+My LED matrices come with wires to connect them to the Arduino Nano, but check if yours do.
+
+
+# Code
+
+## LedControl
+
+An Arduino library for MAX7219 and MAX7221 Led display drivers
+
+**Download and install**
+
+The latest version of the library is on the github project pages. [LedControl release page](https://github.com/wayoda/LedControl/releases)
+
+Download the LedControl-<version>.zip-file tagged Latest release. This file contains the libary and a few example sketches. You don't need any of the Source code files which are also on the release page.
+
+Install the library following the guidelines on the Arduino homepage: [Arduino Library install guide](http://arduino.cc/en/pmwiki.php?n=Guide/Libraries)
+
+
+## Binary
+
+Just the Binary library for Arduinos, used in the Arrays. This library is included with the Arduino IDE, no download needed.
 
 
 ## Data Arrays
@@ -87,6 +135,8 @@ void setup(){
 
 > **NOTE:** The variable "lc" is the LedControl variable, if you are using multiple LedControl variables, make sure you have them set to the correct variable.
 
+<br>
+
 > **NOTE:** The "0" Used, is the display number, make sure you repeat this for EVERY display.
 
 
@@ -114,3 +164,34 @@ void dispByte(int dispNum, byte character [])
  * The function then requires the data array. It will write the first 8 bits, and then the next on the next row of the display, and so on.
  
 > **NOTE:** Make sure to include the `binary.h` library! - `#include <binary.h>`
+
+## Running Code
+
+Now that we have all of our data arrays, functions and displays init.. we can finally actually print data to the MAX7219's. In the `loop()` add your function, followed by the display number and then the array, and that should do it. 
+
+Example:
+
+```cpp
+void loop(){     
+
+  // -- DEFAULT --
+  //Right
+  dispByte(1,dispMouth1);   
+  dispByte(2,dispMouth2); 
+  dispByte(3,dispMouth3); 
+  dispByte(4,dispMouth4); 
+  dispByte(5,dispEyeNormal1);
+  dispByte(6,dispEyeNormal2);
+  dispByte(7,dispNose);
+
+  //Left
+  dispByte2(1,dispMouth1Mirror);    
+  dispByte2(2,dispMouth2Mirror); 
+  dispByte2(3,dispMouth3Mirror); 
+  dispByte2(4,dispMouth4Mirror); 
+  dispByte2(5,dispEyeNormal1Mirror);
+  dispByte2(6,dispEyeNormal2Mirror);
+
+  delay(1000);
+}
+```
