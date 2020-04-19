@@ -135,8 +135,6 @@ void setup(){
 
 > **NOTE:** The variable "lc" is the LedControl variable, if you are using multiple LedControl variables, make sure you have them set to the correct variable.
 
-<br>
-
 > **NOTE:** The "0" Used, is the display number, make sure you repeat this for EVERY display.
 
 
