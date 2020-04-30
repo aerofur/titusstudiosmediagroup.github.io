@@ -651,3 +651,8 @@ table tr:nth-child(2n) {
     text-align: center;
     font-size: 100px;    
 }
+
+iframe {
+    margin: auto;
+    width: -webkit-fill-available;
+}
