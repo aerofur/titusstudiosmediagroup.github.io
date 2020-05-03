@@ -24,13 +24,13 @@ We reserve the right to perform an ID check on any participant. Valid forms of p
 If for any reason you need to contact us, (*Please contact us via Email, or Telegram if it is not high risk*)
 
 #### Titus:
-Email: titusstudiosmediagroup@gmail.com
-Telegram: @TitusStudios
-Mobile: +64 027 286 8604
+ * Email: titusstudiosmediagroup@gmail.com
+ * Telegram: @TitusStudios
+ * Mobile: +64 027 286 8604
 
 #### Grundy:
-Telegram: @GrundyTheGoat
-Mobile: +64 210 853 0886
+ * Telegram: @GrundyTheGoat
+ * Mobile: +64 210 853 0886
 
 
 > Effective Date: 02 May 2020 - Printed copies of this document are uncontrolled
