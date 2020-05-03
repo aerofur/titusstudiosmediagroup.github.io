@@ -28,6 +28,7 @@ Staff reserve the right to kick any participant offsite, without warning or reas
  * We have an absolute no drugs policy, if you are caught possessing drugs staff reserve the right to kick you off site, and to seize any further participation in our events.
  * Do not bring alcohol unless explicitly said so.
  * Don't be a dick, if you're going to be a party pooper you can leave.
+ * Please respect eachother and property.
 
 We reserve the right to perform an ID check on any participant. Valid forms of photo ID include: passport, driver’s license, 18+ card, or other government issued identification. Please ensure you have at least one of these forms of identification with you. Photocopies or printouts will not be accepted.
  
