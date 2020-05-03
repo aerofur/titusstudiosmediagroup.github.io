@@ -2,7 +2,7 @@
 
 > The holder of printed or duplicated copies is responsible for ensuring they are using the latest version
 
-By agreeing to our Terms and Conditions, you are also agreeing to any associated parties terms and conditions.
+By agreeing to our Terms and Conditions, you are also agreeing to any associated parties terms and conditions. These should also be available on site, however also may not be.
 
 ## Terms & Definitions
  * **Participant** - a person who takes part in something.
