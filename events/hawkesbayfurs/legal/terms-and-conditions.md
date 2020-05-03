@@ -8,12 +8,14 @@ Any participant who is under the legally responsible age in New Zealand (under 1
 
 Any participant who is over the legally responsible age in New Zealand (14 years of age, and over), they may be held responsible for Damages, Laws, Harm to self or others, Medical, Death, etc. The only exception to this is if staff are notified for a reason of exception, staff may be held responsible if precautions are not taken.
 
+Any other age limits, or details will be clearly stated in the briefing and registrations of our events
+
 ## Our Policy 
 
 Staff reserve the right to kick any participant offsite, without warning or reason.
 
  * Absolutely no illegal activities, this is for obvious reason.
- * We have an absolute no drugs policy, if you are caught possessing drugs staff reserve the right to kick you off site.
+ * We have an absolute no drugs policy, if you are caught possessing drugs staff reserve the right to kick you off site, and to seize any further participation in our events.
  * Do not bring alcohol unless explicitly said so.
  * Don't be a dick, if you're going to be a party pooper you can leave.
 
