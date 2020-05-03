@@ -5,7 +5,7 @@
 By agreeing to our Terms and Conditions, you are also agreeing to any associated parties terms and conditions. These should also be available on site, however also may not be.
 
 ## Terms & Definitions
- * **Participant** - a person who takes part in something.
+ * **Participant** - A person who takes part in something.
  * **Legally responsible age** - Any being who is, or is over, 14 years of age in New Zealand.
  * **Legal Caregiver** - A caregiver is someone, over the age of 18, who provides care for another. It may be a person who is responsible for the direct care, protection, and supervision of children in a child.
  * **Briefing** - A short and concise summary of a situation.
@@ -47,4 +47,4 @@ If for any reason you need to contact us, (*Please contact us via Email, or Tele
  * Mobile: +64 210 853 0886
 
 
-> Effective Date: 02 May 2020 - Printed copies of this document are uncontrolled
+> Effective Date: 03 May 2020 - Printed copies of this document are uncontrolled
