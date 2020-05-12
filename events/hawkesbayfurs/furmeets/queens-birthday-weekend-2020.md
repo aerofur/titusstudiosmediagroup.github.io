@@ -36,7 +36,7 @@ The toilet is located down the Hallway and to the (first) Right, there should be
  * Please be aware we are fostering kittens at this time, please make sure to keep the doors closed at all times. The kittens should be only limited to the Hallway, or the kitten room.
 
 
- ## COVID-19 Advisory
+## COVID-19 Advisory
 
 Due to COVID-19, We must advise you please practice Social Distancing at our events, since this is a gathering. We are **ONLY Limited to 10 people**, any more and we reserve the right to kick people from the event. Please follow the rules set by the New Zealand Government:
 
