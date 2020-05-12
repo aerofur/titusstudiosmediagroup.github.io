@@ -1,1 +1,5 @@
 Sitemap: https://www.titusstudios.net/sitemap.xml
+Disallow: /events/
+Disallow: /content/
+Disallow: /assets/
+Disallow: /data/
