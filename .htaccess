@@ -1,13 +1,8 @@
-# MAINTENANCE-PAGE REDIRECT
-#<IfModule mod_rewrite.c>
-# RewriteEngine on
-# RewriteCond %{REMOTE_ADDR} !^123\.456\.789\.000
-# RewriteCond %{REQUEST_URI} !/unavailable-01-10-2019.html$ [NC]
-# RewriteCond %{REQUEST_URI} !\.(jpe?g?|png|gif) [NC]
-# RewriteRule .* /unavailable-01-10-2019.html [R=302,L]
-#</IfModule>
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !/serviceshutdown.html$ 
+RewriteRule $ /serviceshutdown.html [R=302,L] 
 
-# ALLOW CLOUDFLARE IPS 
 <RequireAny>
 Require ip 173.245.48.0
 Require ip 103.21.244.0
