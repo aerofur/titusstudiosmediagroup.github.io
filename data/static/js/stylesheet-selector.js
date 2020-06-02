@@ -16,6 +16,6 @@ function selectstylesheet() {
 
     document.body.appendChild(newCss);
   }
-});
+};
 
 window.onload = selectstylesheet();
