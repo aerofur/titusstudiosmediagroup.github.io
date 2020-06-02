@@ -1,4 +1,4 @@
-$(document).on('pagebeforeshow', function () {
+function selectstylesheet() {
   var URL = (window.location).toString().toLowerCase()
   
   if (URL.indexOf("/commissions/voodoo") > -1) {
@@ -17,3 +17,5 @@ $(document).on('pagebeforeshow', function () {
     document.body.appendChild(newCss);
   }
 });
+
+window.onload = selectstylesheet();
