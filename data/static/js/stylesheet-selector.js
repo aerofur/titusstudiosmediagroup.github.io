@@ -12,8 +12,7 @@ $(document).on('pagebeforeshow', function () {
 
     document.body.appendChild(newCss);
     console.log("child appended")
-  }
-  else {
+  } else {
     var newCss = document.createElement('link');
     newCss.rel = 'stylesheet';
     newCss.type = 'text/css';
