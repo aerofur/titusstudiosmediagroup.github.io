@@ -3,6 +3,7 @@ $(document).on('pagebeforeshow', function () {
   var URL = $.mobile.path.parseUrl(window.location).toString().toLowerCase();
   console.log(URL)
   
+  /*
   if (URL.indexOf("/commissions/voodoo") > -1) {
     var newCss = document.createElement('link');
     newCss.rel = 'stylesheet';
@@ -22,4 +23,5 @@ $(document).on('pagebeforeshow', function () {
     document.body.appendChild(newCss);
     console.log("child appended")
   }
+  */
 });
