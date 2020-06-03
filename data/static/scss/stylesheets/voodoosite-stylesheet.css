@@ -1,3 +1,7 @@
+.theme-default {
+    display: none;
+}
+
 body {
     margin: 0;
 }
