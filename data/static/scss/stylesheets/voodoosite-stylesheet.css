@@ -198,7 +198,7 @@ footer {
 .footerwave {
     z-index: 10;
     position: absolute;
-    bottom: 0;
+    bottom: 3px;
     pointer-events: none;
 }
 
