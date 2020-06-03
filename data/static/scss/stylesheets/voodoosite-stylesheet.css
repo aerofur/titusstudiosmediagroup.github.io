@@ -169,6 +169,7 @@ footer {
 .footerlist li a {
     opacity: 0.5;
     cursor: pointer;
+    color: #bbb;
 }
 
 .footerlist li a:hover {
