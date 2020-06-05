@@ -626,3 +626,12 @@ iframe {
 .commissions-list-button p {
     margin: 0;
 }
+
+@media screen and (max-width: 450px) {
+    .commissions-slideshow-textbox {
+        float: none;
+        text-align: center;
+        font-size: 25px;
+        padding-right: 45px;
+    }
+}
