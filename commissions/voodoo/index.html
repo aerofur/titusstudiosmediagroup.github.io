@@ -2,8 +2,76 @@
     <head>
         <link rel="stylesheet" href="https://www.titusstudios.net/data/static/scss/stylesheets/voodoosite-stylesheet.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+        <script src="https://www.titusstudios.net/data/static/js/jquery/3.4.1/jquery.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
+
+        <div class="textheader">
+            <div class="textheaderinner">
+                <div class="textheaderwrapper">
+                    <p><strong>Gore_dogg</strong></p>
+                    <div class="textheaderinnersub">
+                        <p>Creations</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="main_content">
+
+        <div class="textbox-left">
+            <div class="textbox-text">
+                <div class="textbox-text-header">
+                    <p><strong>Hello World!</strong></p>
+                </div>
+                <div class="textbox-text-sub">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tristique, enim quis luctus lacinia, sem dui maximus nulla, ut porta ipsum felis a nibh. Nulla blandit massa tempor mauris blandit varius. Suspendisse varius ornare tellus eget finibus.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="clearfix">
+            <div class="textbox-right">
+                <div class="textbox-text">
+                    <div class="textbox-text-header">
+                        <p><strong>Hello World!</strong></p>
+                    </div>
+                    <div class="textbox-text-sub">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tristique, enim quis luctus lacinia, sem dui maximus nulla, ut porta ipsum felis a nibh. Nulla blandit massa tempor mauris blandit varius. Suspendisse varius ornare tellus eget finibus.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        </div>
+
+        <div class="commissions-slideshow">
+            <div class="commissions-slideshow-grad">
+                <div class="commissions-slideshow-textbox">
+                    <p>2020 Comissions</p>
+                    <p><strong>OPEN NOW</strong></p>
+                    <div class="commissions-button-wrapper">
+                        <div class="commissions-list-button" href="">
+                            <p>View List</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="slideshow">
+                <div class="slideshow-image1">
+                </div>
+                <div class="slideshow-image2">
+                </div>
+                <div class="slideshow-image3">
+                </div>
+                <div class="slideshow-image4">
+                </div>
+                <div class="slideshow-image5">
+                </div>
+            </div>
+        </div>
 
         <svg class="footerwave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
             <path fill="#2d2532" fill-opacity="0.5" d="M0,128L60,154.7C120,181,240,235,360,250.7C480,267,600,245,720,245.3C840,245,960,267,1080,272C1200,277,1320,267,1380,261.3L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
@@ -49,6 +117,9 @@
                             <li>
                                 <a>Updates</a>
                             </li>
+                            <li>
+                                <a href="https://www.titusstudios.net/data/static/images/voodoo/voodoo_ref_2020.jpg">Reference Sheet</a>
+                            </li>
                         </ul>
                     </div>
 
@@ -74,5 +145,17 @@
                 </div>
             </div>
         </footer>
+
+        <script>
+            $("#slideshow > div:gt(0)").hide();
+            setInterval(function() { 
+            $('#slideshow > div:first')
+                .fadeOut(1000)
+                .next()
+                .fadeIn(1000)
+                .end()
+                .appendTo('#slideshow');
+            }, 3000);
+        </script>
     </body>
 </html>
