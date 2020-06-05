@@ -681,6 +681,28 @@ iframe {
     margin: auto;
 }
 
+.pricecard-image-fullbody {
+    width: 260px;
+    height: 260px;
+    background-image: url("https://www.titusstudios.net/data/static/images/voodoo/bubble_girl_web.png");
+    background-size: cover;
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.pricecard-image-refsheets {
+    width: 260px;
+    height: 260px;
+    background-image: url("https://www.titusstudios.net/data/static/images/voodoo/Ramizes_ref_sfw-no_tai.png");
+    background-size: cover;
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
 .pricecard-description {
     font-family: Helvetica;
     font-size: 16px;
