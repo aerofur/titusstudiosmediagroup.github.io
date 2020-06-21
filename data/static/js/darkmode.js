@@ -31,3 +31,7 @@ darkModeToggle.addEventListener('click', () => {
         darkModeToggle.style.transform = "rotate(180deg)";
     }
 });
+
+$(document).ready(function() {
+    document.body.style.transition = "all 300ms";
+});
