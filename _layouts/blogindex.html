@@ -44,7 +44,7 @@
                 {% if paginator.previous_page %}
                     {% if paginator.page == 2 %}
                         <button>
-                            <a href="/">Next</a>
+                            <a href="/">Previous</a>
                         </button>
                     {% else %}
                         <button>
@@ -63,6 +63,17 @@
                     <button class="blog-button-blackout">Next</button>
                 {% endif %}
             </div>
+            
+            <!-- This loops through the paginated posts -->
+                {% for post in paginator.posts %}
+                  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                  <p class="author">
+                    <span class="date">{{ post.date }}</span>
+                  </p>
+                  <div class="content">
+                    {{ post.content }}
+                  </div>
+                {% endfor %}
 
             <div class="blogtags-desc-wrapper">
                 <div class="blogdesc">
