@@ -1,0 +1,62 @@
+<html>
+    {% include head.html %}
+    <body>
+        <div class="blogpostcontent">
+            <div class="blogheader">
+                <div class="blogtitle">
+                    <p>Search</p>
+                </div>
+            </div>
+
+            <div class="blogdesc">
+                <p>Searching for posts with the tag: "{{ page.tag }}"</p>
+            </div>
+
+            <div class="blogline"></div>
+
+            {% for post in site.tags[page.tag] %}
+                <div class="blogpost">
+                    <a href="{{ post.url }}">
+                        <div class="blogpost-date">
+                            <p>{{ post.date | date_to_string }}</p>
+                        </div>
+                        <div class="blogpost-line"></div>
+                        <div class="blogpost-title">
+                            <p>{{ post.title }}</p>
+                        </div>
+                        <div class="blogpost-desc">
+                            <p>{{ post.description }}</p>
+                        </div>
+                    </a>
+
+                    <div class="blogpost-tags">
+                        {% for tag in post.tags %}
+                            {% capture tag_name %}{{ tag }}{% endcapture %}
+                            <div class="blogtag"><a href="/tag/{{ tag_name }}">{{ tag_name }}</a></div>
+                        {% endfor %}
+                    </div>
+                </div>
+            {% endfor %}
+
+            <div class="blogtags-desc-wrapper">
+                <div class="blogdesc">
+                    <p>Find posts using Tags</p>
+                </div>
+            </div>
+
+            <div class="blogline"></div>
+
+            <div class="blogtags-wrapper">
+                {% include archive.html %}
+            </div>
+        </div>
+
+        <div class="container">
+            <section id="main_content">
+                {{ content }}
+            </section>
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>
