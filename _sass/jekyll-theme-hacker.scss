@@ -847,6 +847,10 @@ button {
     padding: 15px;    
 }
 
+.blogpost:hover > .blogpost-title {
+    text-decoration: underline;
+}
+
 .blogpost a:hover, .blogpost p:hover {
     text-decoration: none;
 }
