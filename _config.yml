@@ -6,6 +6,7 @@ title: Titus Studios
 description: Titus Studios Media Group Official Site; Think, Build, Host, Publish.
 logo: /assets/images/newlogo2020.png
 paginate:         5
+paginate_path: "/blog/page:num/"
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
       
 defaults:
