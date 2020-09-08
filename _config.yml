@@ -5,8 +5,8 @@ url: "https://titusstudios.net/" # the hostname & protocol for your site
 title: Titus Studios
 description: Titus Studios Media Group Official Site; Think, Build, Host, Publish.
 logo: /assets/images/newlogo2020.png
-gems: 
-      - jekyll-sitemap
+paginate:         5
+gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
       
 defaults:
   -
