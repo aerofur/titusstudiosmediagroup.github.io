@@ -119,6 +119,10 @@ a:hover {
     background-color: #26272b;
 }
 
+.mainheader a:hover {
+    text-decoration: none;    
+}
+
 .headiconstray {
     padding: 4px 0 0 0;    
 }
@@ -608,6 +612,10 @@ body {
     max-width: 1200px;
     margin: auto;
     text-align: center;
+}
+
+.homepage-projects a:hover {
+    text-decoration: none;    
 }
 
 .homepage-project-box {
