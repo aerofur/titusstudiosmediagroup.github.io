@@ -86,10 +86,6 @@ This is the "Magic Carpet" in Happy Valley, this is how you get back up to the t
 
 ![](/data/static/images/miscellaneous/21102020/IMG_0974.JPG)
 
-Oh and here's me just sliding down to a stop
-
-![](/data/static/images/miscellaneous/21102020/IMG_0991.JPG)
-
 # That is all
 
 Wow this was pretty long, but it was really fun and I'm 1000% going next season, was a bummer that I was getting really good and even doing some jumps at the end of the second day, and then it's just the end of season and everything closes up, but there is always next time!
