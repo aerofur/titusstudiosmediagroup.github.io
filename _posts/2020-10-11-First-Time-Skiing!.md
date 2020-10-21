@@ -51,7 +51,7 @@ Oh yeah grumpy old fossil, he’s just angry that his food isn't heated.
 
 ## T-Bar
 
-Up to T-Bar which probably wasn't a good idea, knowing my experience on the skis so far, I pretty much lost control of my speed and then fell head first into the snow, and then had to butt slide all the way down the mountain because it was way to steep for me to get up and back on my skis, which has disconnected. After about an hour I got back to the T-Bar Cafe, which has a nice view of the mountain, and down at the very bottom you can see Happy Valley.
+Up to T-Bar which probably wasn't a good idea, knowing my experience on the skis so far, I pretty much lost control of my speed and then fell head first into the snow, and then had to butt slide all the way down the mountain because it was way to steep for me to get up and back on my skis, which disconnected. After about an hour I got back to the T-Bar Cafe, which has a nice view of the mountain, and down at the very bottom you can see Happy Valley.
 
 ![](/data/static/images/miscellaneous/21102020/IMG_0940.JPG)
 
