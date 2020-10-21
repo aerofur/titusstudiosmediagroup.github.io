@@ -2,7 +2,7 @@
 layout: blog
 title: "First Time Skiing!"
 category: "blog"
-description: "My first time Skiing at Whakapapa on Mt Ruapehu"
+description: "My first time Skiing at Whakapapa on Mt Ruapehu."
 tags: [ travel, whakapapa, skiing, blog, 2020 ]
 ---
 
