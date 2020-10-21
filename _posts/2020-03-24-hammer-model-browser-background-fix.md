@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: "First Time Skiing!"
+title: "Hammer Model Browser Background Fix"
 category: "blog"
-description: "My first time Skiing at Whakapapa on Mt Ruapehu"
+description: "To change the background of the Hammer Editor Model Browser, which in some cases is transparent by default."
 tags: [ hammer, sourceengine, bugfix, csharp, blog, 2020 ]
 ---
 
