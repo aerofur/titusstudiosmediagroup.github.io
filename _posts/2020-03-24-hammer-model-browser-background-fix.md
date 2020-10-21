@@ -1,3 +1,11 @@
+---
+layout: blog
+title: "First Time Skiing!"
+category: "blog"
+description: "My first time Skiing at Whakapapa on Mt Ruapehu"
+tags: [ hammer, sourceengine, bugfix, csharp, blog, 2020 ]
+---
+
 # Hammer Model Browser Background Fix
 
 ## Scope
