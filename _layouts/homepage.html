@@ -1,27 +1,36 @@
 <html>
     {% include homepagehead.html %}
     <body>
-        <div class="nav">
-            <a href="https://www.titusstudios.net/">Home</a>
-            <a href="https://www.titusstudios.net/blog/">Blog</a>
-            <a href="https://www.titusstudios.net/contact">Contact</a>
-        </div>
-        <div class="cardwrapper">
-            <div class="card">
+        <div class="card">
+            <div class="cardtext">
                 <h1>Paxton Craig</h1>
                 <p>Hi, I’m Titus. I do software development and web technologies.</p>
-                <div class="socialicons">
-                    <a href="https://t.me/titusstudios">
-                        <i class="fab fa-telegram-plane"></i>
-                    </a>
-                    <a href="https://twitter.com/TitusStudiosMG">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a href="https://github.com/TitusStudiosMediaGroup">
-                        <i class="fab fa-github"></i>
-                    </a>
-                </div>
+            </div>
+
+            <div class="nav">
+                <a href="https://www.titusstudios.net/">Home</a>
+                <div class="dot"></div>
+                <a href="https://www.titusstudios.net/blog/">Blog</a>
+                <div class="dot"></div>
+                <a href="https://www.titusstudios.net/contact">Contact</a>
+            </div>
+
+            <div class="socialicons">
+                <a href="https://t.me/titusstudios">
+                    <i class="fab fa-telegram-plane"></i>
+                </a>
+                <a href="https://twitter.com/TitusStudiosMG">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a href="https://github.com/TitusStudiosMediaGroup">
+                    <i class="fab fa-github"></i>
+                </a>
             </div>
         </div>
+
+        <script>
+            let vh = window.innerHeight * 0.01;
+            document.documentElement.style.setProperty('--vh', `${vh}px`);
+        </script>
     </body>
 </html>
