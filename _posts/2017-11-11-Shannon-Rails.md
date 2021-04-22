@@ -1,9 +1,0 @@
----
-layout: blog
-title: "Shannon Rails"
-category: "blog"
-description: "Pictures of the railroad infrastructure in Shannon on my way to Levin."
-tags: [ shannon, levin, infrastructure, blog, dslr, 2017 ]
----
-
-# Hi, sorry this post isnt here anymore.
