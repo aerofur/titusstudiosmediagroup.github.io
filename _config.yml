@@ -1,12 +1,9 @@
 theme: jekyll-theme-hacker
-google_analytics: UA-142625828-2
-
 url: "https://titusstudios.net/"
 title: Titus Studios
 description: I do software development and web technologies.
 logo: /assets/images/newlogo2020.png
 gems:             [jekyll-seo-tag, jekyll-sitemap]
-      
 defaults:
   -
     scope:
@@ -14,5 +11,3 @@ defaults:
       path:            "data/*"
     values:
       sitemap:         false
-
-      
