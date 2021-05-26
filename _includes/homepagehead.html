@@ -28,16 +28,4 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    
-    <!-- Google analytics -->
-    <meta name="google-site-verification" content="zyKVZBJaMLd2zAtclQ0NYa-sG0Kp_oCnpQk0iYMKvO8" />
-    {% if site.google_analytics and jekyll.environment == 'production' %}
-        {% include analytics.html %}
-    {% endif %}
-    
-    {% seo %}
-
-    {% if site.tags != "" %}
-        {% include collecttags.html %}
-    {% endif %}
 </head>
