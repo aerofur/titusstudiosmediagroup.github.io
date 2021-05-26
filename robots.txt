@@ -1,3 +1,4 @@
 Sitemap: https://www.titusstudios.net/sitemap.xml
+User-agent: *
 Disallow: /assets/
 Disallow: /data/
