@@ -1,13 +1,11 @@
 theme: jekyll-theme-hacker
 google_analytics: UA-142625828-2
 
-url: "https://titusstudios.net/" # the hostname & protocol for your site
+url: "https://titusstudios.net/"
 title: Titus Studios
 description: I do software development and web technologies.
 logo: /assets/images/newlogo2020.png
-paginate:         5
-paginate_path: "/blog/page:num/"
-gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+gems:             [jekyll-seo-tag, jekyll-sitemap]
       
 defaults:
   -
