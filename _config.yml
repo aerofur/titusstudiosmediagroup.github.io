@@ -1,13 +1,11 @@
-theme: jekyll-theme-hacker
-url: "https://titusstudios.net/"
-title: Titus Studios
-description: I do software development and web technologies.
-logo: /assets/images/newlogo2020.png
-gems:             [jekyll-seo-tag, jekyll-sitemap]
+url: "https://aerofur.nz/"
+title: www.aerofur.nz
+description: dog on the internet.
+gems: [jekyll-sitemap]
 defaults:
   -
     scope:
-      path:            "assets/*"
-      path:            "data/*"
+      path: "modules/*"
+      path: "data/*"
     values:
-      sitemap:         false
+      sitemap: false
