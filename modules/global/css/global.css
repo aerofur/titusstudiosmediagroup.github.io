@@ -60,6 +60,7 @@ h1 {
         grid-template-rows: none !important;
         grid-template-columns: 1fr 1fr 1fr !important;
         width: 100%;
+        height: auto;
     }
 }
 
