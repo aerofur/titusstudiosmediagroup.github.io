@@ -41,11 +41,16 @@ h1 {
     display: grid;
     justify-self: end;
     grid-template-rows: 1fr 1fr 1fr;
+    height: 100%;
 }
 
 .social-nav a {
+    display: grid;
+    justify-items: center;
+    align-items: center;
     font-size: 100px;
     color: #000;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 600px) {
@@ -58,6 +63,7 @@ h1 {
         justify-self: center;
         grid-template-rows: none !important;
         grid-template-columns: 1fr 1fr 1fr !important;
+        width: 100%;
     }
 }
 
