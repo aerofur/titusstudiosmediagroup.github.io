@@ -1,8 +1,6 @@
 url: "https://aerofur.nz/"
 title: www.aerofur.nz
 description: dog on the internet.
-plugins:
-  - jekyll-sitemap
 defaults:
   - scope:
       path: "modules/*"
