@@ -2,7 +2,7 @@ body {
     display: block;
     margin: 0;
     padding: 0;
-    background-color: #f6f9fc;
+    background: url("https://www.aerofur.nz/modules/global/doodle.png");
 }
 
 a, p, h1 {
@@ -12,7 +12,7 @@ a, p, h1 {
 h1 {
     font-family: Staatliches;
     font-size: 100px;
-    color: #000;
+    color: #f6f9fc;
 }
 
 .guides {
@@ -23,6 +23,7 @@ h1 {
     grid-template-rows: 1fr;
     justify-items: center;
     align-items: center;
+    background: rgb(0,0,0,50%);
 }
 
 .wrapper {
@@ -45,7 +46,7 @@ h1 {
     justify-items: center;
     align-items: center;
     font-size: 100px;
-    color: #000;
+    color: #f6f9fc;
     text-decoration: none;
 }
 
